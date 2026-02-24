@@ -1,0 +1,8 @@
+<figure class="chairimg">
+    <a href="{{ .Get "link" }}">
+        <img src="{{ .Get "src" }}"
+            style="border-radius:100px;width: 174px;"
+            alt="{{ .Get "name" }}">
+    </a>
+    <figcaption style="text-align:center"> <a class="chairimglink" href="{{ .Get "link" }}"><b>{{ .Get "name" }}</b></a> <br/> {{ .Get "affiliation" }}</figcaption>
+</figure>

@@ -1,0 +1,46 @@
+/* EAAMO color scheme, 
+
+Started with the Slate color scheme from Congo theme. 
+
+Used https://www.tailwindshades.com/ to create shades of dark blue */
+
+:root {
+    --color-neutral: 255, 248, 238;
+    /* Dark blue  */
+    --color-neutral-50:  255, 248, 238; /* HEADING COLOR LIGHT THEME */
+    --color-neutral-100: 255, 201, 105;
+    --color-neutral-200: 240, 107, 82;  /* QUOTES COLOR DARK THEME, HORIZONTAL LINES LIGHT THEME */
+    --color-neutral-300: 255, 248, 238; /* TEXT COLOR DARK THEME */
+    --color-neutral-400: 255, 248, 238; /* LINKS COLOR DARK THEME */
+    --color-neutral-500: 240, 107, 82; /* LISTS BOTH THEMES */
+    --color-neutral-600: 240, 107, 82; /* UNDERSCORE LINK DARK THEME */
+    --color-neutral-700: 31, 42, 96; /* TEXT, LINKS, CODE, AND QUOTES COLOR LIGHT THEME */
+    --color-neutral-800: 31, 42, 96; /* HEADING COLOR LIGHT THEME */
+    --color-neutral-900: 31, 42, 96; /* HEADING COLOR LIGHT THEME */
+    --color-neutral-900: 26, 35, 81;
+    --color-neutral-950: 21, 29, 65;
+    /* Slate */
+    --color-primary-50: 248, 250, 252;
+    --color-primary-100: 241, 245, 249;
+    --color-primary-200: 226, 232, 240;
+    --color-primary-300: 240, 107, 82; /* HIGHLIGHT AND UNDERSCORE LINK IN BOTH THEMES, A WEIRD COMBINATION*/
+    --color-primary-400: 240, 107, 82; /* LINK HOVER IN DARK THEME */
+    --color-primary-500: 240, 107, 82; /* LINK HOVER IN LIGHT THEME */
+    --color-primary-600: 240, 107, 82; /* HIGHLIGHT AND UNDERSCORE LINK IN BOTH THEMES, A WEIRD COMBINATION*/
+    --color-primary-700: 240, 107, 82; /* LINK IN LIGHT THEME */
+    --color-primary-800: 255, 211, 105;
+    --color-primary-900: 15, 23, 42;
+    --color-primary-950: 2, 6, 23;
+    /* Gray */
+    --color-secondary-50: 249, 250, 251;
+    --color-secondary-100: 243, 244, 246;
+    --color-secondary-200: 229, 231, 235;
+    --color-secondary-300: 209, 213, 219;
+    --color-secondary-400: 156, 163, 175;
+    --color-secondary-500: 107, 114, 128;
+    --color-secondary-600: 75, 85, 99;
+    --color-secondary-700: 55, 65, 81;
+    --color-secondary-800: 31, 41, 55;
+    --color-secondary-900: 17, 24, 39;
+    --color-secondary-950: 10, 10, 10;
+    }

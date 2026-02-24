@@ -1,0 +1,52 @@
+<header class="py-6 font-semibold text-neutral-900 print:hidden sm:py-10 dark:text-neutral">
+  <nav class="flex items-start justify-between sm:items-center">
+    <div class="flex flex-row items-center">
+      {{ partial "logo.html" . }}
+    </div>
+    {{ if or .Site.Menus.main (.Site.Params.enableSearch | default false) }}
+      <ul class="flex list-none flex-col text-end sm:flex-row">
+        {{ if .Site.Menus.main }}
+          {{ $menu := .Site.Menus.main }}
+          {{ range $menu }}
+            {{ if not .Parent }}
+              <li class="group relative mb-1 sm:mb-0 sm:me-7 sm:last:me-0.5">
+                <a href="{{ .URL }}" title="{{ .Title }}" {{ with .Params.target }}target="{{ . }}"{{ end }}>
+                  {{ with .Params.icon }}
+                    <span class="group-dark:hover:text-primary-400 transition-colors group-hover:text-primary-600">
+                      {{- partial "icon.html" . -}}
+                    </span>
+                  {{ end }}
+                  {{ if .Params.showName | default true }}
+                    <span class="decoration-primary-500 group-hover:underline group-hover:decoration-2 group-hover:underline-offset-2">
+                      {{ .Name | markdownify | emojify }}
+                    </span>
+                  {{ end }}
+                </a>
+                {{ if .HasChildren }}
+                  <ul class="absolute left-0 mt-2 hidden flex-col rounded-md bg-white p-2 shadow-lg group-hover:flex dark:bg-neutral-800 z-50">
+                    {{ range .Children }}
+                      <li>
+                        <a href="{{ .URL }}" class="block whitespace-nowrap px-4 py-2 hover:bg-neutral-100 dark:hover:bg-neutral-700">
+                          {{ .Name }}
+                        </a>
+                      </li>
+                    {{ end }}
+                  </ul>
+                {{ end }}
+              </li>
+            {{ end }}
+          {{ end }}
+          {{ if and ($.Site.Params.enableSearch | default false) (eq ($.Scratch.Get "searchCount") 0) }}
+            <li class="group mb-1 sm:mb-0 sm:me-7 sm:last:me-0">
+              <button id="search-button-m0" title="{{ i18n "search.open_button_title" }}">
+                <span class="group-dark:hover:text-primary-400 transition-colors group-hover:text-primary-600">
+                  {{ partial "icon.html" "search" }}
+                </span>
+              </button>
+            </li>
+          {{ end }}
+        {{ end }}
+      </ul>
+    {{ end }}
+  </nav>
+</header>
