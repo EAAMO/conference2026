@@ -2,13 +2,13 @@
 description: "ACM conference on Equity and Access in Algorithms, Mechanisms, and Optimization"
 ---
 <p style="font-size: larger">
-The Sixth ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (ACM EAAMO 2026) will be organized by Ludwig Maximilian University of Munich and held from <b>November 5–7, 2026</b>, at Ludwig Maximilian University of Munich, Germany.
+The Sixth ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (ACM EAAMO 2026) will be organized by Ludwig-Maximilians-Universität München and held from <b>November 5–7, 2026</b>, at Ludwig-Maximilians-Universität München, Germany.
 </p>
 
 <div>
 <add-to-calendar-button 
   name="ACM EAAMO'26"
-  description="The Sixth ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (ACM EAAMO 2026) will be organized by Ludwig Maximilian University of Munich and held from November 5–7, 2026, at Ludwig Maximilian University of Munich, Germany."
+  description="The Sixth ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (ACM EAAMO 2026) will be organized by Ludwig-Maximilians-Universität München and held from November 5–7, 2026, at Ludwig-Maximilians-Universität München, Germany."
   startDate="2026-11-05"
   startTime="09:00"
   endDate="2026-11-07"
