@@ -11,6 +11,12 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
+   name = "Call for Papers"
+   pageRef = "cfp"
+   weight = 1
+   identifier = 'cfp'
+
+[[main]]
   identifier = "search"
   weight = 99
   [main.params]
