@@ -17,6 +17,12 @@
    identifier = 'cfp'
 
 [[main]]
+   name = "Committees"
+   pageRef = "committees"
+   weight = 2
+   identifier = 'committees'
+
+[[main]]
   identifier = "search"
   weight = 99
   [main.params]
