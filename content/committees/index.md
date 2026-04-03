@@ -14,6 +14,9 @@ layout: "simple"
 
 {{< chair_image src="profile_photos/miri_zilka.jpg" name="Miri Zilka" affiliation="University of Cambridge, UK" link="https://sites.google.com/view/miri-zilka/home" >}}
 
+## Local Organizer
+{{< chair_image src="profile_photos/clara_strasser_ceballos.jpg" name="Clara Strasser Ceballos" affiliation="Ludwig-Maximilians-Universität München, Germany" link="https://www.stat.lmu.de/soda/en/team/contact-page/clara-strasser-ceballos-f23c7d12.html" >}}
+
 ## Executive Committee
 {{< chair_image src="profile_photos/celestine_mendler_dunner.jpg" name="Celestine Mendler-Dünner" affiliation="ELLIS Institute Tübingen / Max Planck Institute for Intelligent Systems, Germany" link="https://celestine.ai/" >}}
 
