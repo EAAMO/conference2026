@@ -19,8 +19,8 @@ Submissions will have the option to be either archival or non-archival.
 
 ## Important Dates
 
-* Abstract Submission Deadline: May 1, 2026 (AoE)  
-* Paper Submission Deadline: May 8, 2026 (AoE)  
+* Abstract Submission Deadline: ~~May 1, 2026 (AoE)~~ **May 8, 2026 (AoE)**  
+* Paper Submission Deadline: ~~May 8, 2026 (AoE)~~ **May 15, 2026 (AoE)**
 * Submission Notification: August 1, 2026  
 * Event Dates: November 5 \- 7, 2026
 

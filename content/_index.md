@@ -22,7 +22,9 @@ The Sixth ACM Conference on Equity and Access in Algorithms, Mechanisms, and Opt
 - - -
 
 ## News
+- Submission deadline is postponed by 1 week: new deadlines are May 8 (for abstract submission) and May 15 (for paper submission), respectively.
 - Call for Papers is now available on this [link](cfp).
+
 
 ## About ACM EAAMO Conference
 
