@@ -29,3 +29,13 @@ The Sixth ACM Conference on Equity and Access in Algorithms, Mechanisms, and Opt
 ## About ACM EAAMO Conference
 
 The event will highlight work across the research-to-practice pipeline that aims to ensure algorithmic systems play a broadly beneficial role in society, advancing equity and expanding access to opportunity for underserved communities. We invite submissions that draw on techniques from artificial intelligence and machine learning, mechanism design, optimization, operations, and economics, as well as perspectives from human-computer interaction and the social sciences that examine the societal embedding of these technologies. The conference will provide an inter-disciplinary forum for presenting research papers, problem pitches, survey and position papers, new datasets, and software demonstrations with the goal of bridging research and practice.
+
+## Acknowledgements
+We are grateful for the support from:
+
+<p>
+<center>
+    <img src="sponsors_images/acm_logo.png" alt="ACM" width="30%" style="display:inline-block;" />
+    <img src="sponsors_images/sigai.png" alt="ACM SIGAI" width="18%" style="display:inline-block;" />
+</center>
+</p>
