@@ -23,6 +23,12 @@
    identifier = 'committees'
 
 [[main]]
+   name = "Host ACM EAAMO'27"
+   pageRef = "call_for_location"
+   weight = 98
+   identifier = 'call_for_location'
+
+[[main]]
   identifier = "search"
   weight = 99
   [main.params]
