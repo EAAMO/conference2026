@@ -1,10 +1,8 @@
-<footer class="py-10 print:hidden">
+<footer class="site-footer py-10 print:hidden">
   {{/* Footer menu */}}
   {{ if .Site.Menus.footer }}
-    <nav class="pb-4 text-base font-medium text-neutral-500 dark:text-neutral-400">
-      <hr class="fline">
-      <br>
-      <ul class="flex list-none flex-col sm:flex-row">
+    <nav class="site-footer-nav pb-4 text-base font-medium text-neutral-500 dark:text-neutral-400">
+      <ul class="site-footer-menu flex list-none flex-col sm:flex-row">
         {{ range .Site.Menus.footer }}
           {{ if and (eq .Params.action "locale") (or (not page.IsTranslated) (not site.IsMultiLingual)) }}
             {{ continue }}
@@ -78,7 +76,7 @@
       </ul>
     </nav>
   {{ end }}
-  <div class="flex items-center justify-between">
+  <div class="site-footer-inner flex items-center justify-between">
     <div>
       {{/* Copyright */}}
       {{ if .Site.Params.footer.showCopyright | default true }}
@@ -103,7 +101,7 @@
         </p>
       {{ end }}
     </div>
-    <div class="flex flex-row items-center">
+    <div class="site-footer-actions flex flex-row items-center">
       {{/* Locale switcher */}}
       {{ if and (.IsTranslated) (eq ($.Scratch.Get "localeCount") 0) }}
         <div>

@@ -10,6 +10,21 @@ The Sixth ACM Conference on Equity and Access in Algorithms, Mechanisms, and Opt
   <figcaption>Munich, Germany. Photo by <a href="https://pixabay.com/photos/munich-architecture-germany-4792435/">iankelsall1</a> on Pixabay.</figcaption>
 </figure>
 
+<div class="event-facts" aria-label="Conference details">
+  <div>
+    <span>Dates</span>
+    <strong>November 5–7, 2026</strong>
+  </div>
+  <div>
+    <span>Venue</span>
+    <strong>Ludwig-Maximilians-Universität München</strong>
+  </div>
+  <div>
+    <span>Location</span>
+    <strong>Munich, Germany</strong>
+  </div>
+</div>
+
 <div>
 <add-to-calendar-button 
   name="ACM EAAMO'26"
