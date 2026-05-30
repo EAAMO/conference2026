@@ -9,8 +9,9 @@
   data-auto-appearance="{{- .Site.Params.autoSwitchAppearance | default "true" -}}"
 >
   {{- partial "head.html" . -}}
+  {{- $pageClass := replaceRE "/$" "" (replaceRE "^/" "" .RelPermalink) -}}
   <body
-    class="m-auto flex h-screen max-w-7xl flex-col bg-neutral px-6 text-lg leading-7 text-neutral-900 sm:px-14 md:px-24 lg:px-32 dark:bg-neutral-800 dark:text-neutral"
+    class="m-auto flex h-screen max-w-7xl flex-col bg-neutral px-6 text-lg leading-7 text-neutral-900 sm:px-14 md:px-24 lg:px-32 dark:bg-neutral-800 dark:text-neutral{{ with .Section }} section-{{ . | urlize }}{{ end }}{{ with $pageClass }} page-{{ . | urlize }}{{ end }}{{ if .IsHome }} page-home{{ end }}"
   >
     <div id="the-top" class="absolute flex self-center">
       <a

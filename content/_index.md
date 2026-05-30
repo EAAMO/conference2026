@@ -5,6 +5,11 @@ description: "ACM conference on Equity and Access in Algorithms, Mechanisms, and
 The Sixth ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (ACM EAAMO 2026) will be organized by Ludwig-Maximilians-Universität München and held from <b>November 5–7, 2026</b>, at Ludwig-Maximilians-Universität München, Germany.
 </p>
 
+<figure class="home-munich-photo">
+  <img src="/img/munich-iankelsall1.jpg" alt="Munich architecture in Germany" loading="eager" />
+  <figcaption>Munich, Germany. Photo by <a href="https://pixabay.com/photos/munich-architecture-germany-4792435/">iankelsall1</a> on Pixabay.</figcaption>
+</figure>
+
 <div>
 <add-to-calendar-button 
   name="ACM EAAMO'26"
