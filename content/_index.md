@@ -55,6 +55,11 @@ We are grateful for the support from:
 
 <p>
 <center>
+    <img src="sponsors_images/mcml_logo.png" alt="MCML" width="30%" style="display:inline-block;" />
+</center>
+</p>
+<p>
+<center>
     <img src="sponsors_images/acm_logo.png" alt="ACM" width="30%" style="display:inline-block;" />
     <img src="sponsors_images/sigai.png" alt="ACM SIGAI" width="18%" style="display:inline-block;" />
 </center>
