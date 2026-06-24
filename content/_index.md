@@ -64,3 +64,8 @@ We are grateful for the support from:
     <img src="sponsors_images/sigai.png" alt="ACM SIGAI" width="18%" style="display:inline-block;" />
 </center>
 </p>
+<p>
+<center>
+    <img src="sponsors_images/TUM_RelAI.transparent.png" alt="TUM RelAI" width="30%" style="display:inline-block;" />
+</center>
+</p>
