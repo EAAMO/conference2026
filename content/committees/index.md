@@ -6,17 +6,26 @@ showTableOfContents: false
 layout: "simple"
 ---
 
-## General Chair
+## General Chairs
+
+To contact the general chairs, email: gc26@eaamo.org
+
 {{< chair_image src="profile_photos/christoph_kern.jpg" name="Christoph Kern" affiliation="Ludwig-Maximilians-Universität München, Germany" link="https://www.stat.lmu.de/soda/en/team/contact-page/christoph-kern-11bd67d0.html" >}}
 
 {{< chair_image src="profile_photos/clara_strasser_ceballos.jpg" name="Clara Strasser Ceballos" affiliation="Ludwig-Maximilians-Universität München, Germany" link="https://www.stat.lmu.de/soda/en/team/contact-page/clara-strasser-ceballos-f23c7d12.html" >}}
 
 ## Program Chairs
+
+To contact the program chairs, email: pc26@eaamo.org
+
 {{< chair_image src="profile_photos/hannah_li.jpg" name="Hannah Li" affiliation="Columbia University, USA" link="https://business.columbia.edu/staff/people/hannah-li" >}}
 
 {{< chair_image src="profile_photos/miri_zilka.jpg" name="Miri Zilka" affiliation="University of Cambridge, UK" link="https://sites.google.com/view/miri-zilka/home" >}}
 
 ## Executive Committee
+
+To contact the executive committee, email: ec@eaamo.org
+
 {{< chair_image src="profile_photos/celestine_mendler_dunner.jpg" name="Celestine Mendler-Dünner" affiliation="ELLIS Institute Tübingen / Max Planck Institute for Intelligent Systems, Germany" link="https://celestine.ai/" >}}
 
 {{< chair_image src="profile_photos/bryan_wilder.jpg" name="Bryan Wilder" affiliation="Carnegie Mellon University, USA" link="https://bryanwilder.github.io/" >}}
