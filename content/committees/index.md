@@ -32,7 +32,7 @@ To contact the social media chairs, email: socialmedia@eaamo.org
 
 ## Social Chairs
 
-{{< chair_image src="profile_photos/ben_hoeltgen.png" name="Ben Höltgen" affiliation="Hasso Plattner Institute, Germany" link="https://ben-hoeltgen.github.io/" >}}
+{{< chair_image src="profile_photos/ben_hoeltgen.jpg" name="Ben Höltgen" affiliation="Hasso Plattner Institute, Germany" link="https://ben-hoeltgen.github.io/" >}}
 
 {{< chair_image src="profile_photos/chiara_ullstein.jpg" name="Chiara Ullstein" affiliation="Technical University of Munich, Germany" link="https://www.cs.cit.tum.de/en/ct/members/chiara-ullstein/" >}}
 
