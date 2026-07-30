@@ -23,6 +23,12 @@
    identifier = 'committees'
 
 [[main]]
+   name = "Financial Applications"
+   pageRef = "financial_assistance"
+   weight = 3
+   identifier = 'financial_assistance'
+
+[[main]]
    name = "Host ACM EAAMO'27"
    pageRef = "call_for_location"
    weight = 98
