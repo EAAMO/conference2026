@@ -42,6 +42,7 @@ The Sixth ACM Conference on Equity and Access in Algorithms, Mechanisms, and Opt
 - - -
 
 ## News
+- [Financial assistance applications](financial_assistance) are now open. Apply by August 25, 2026.
 - Submission deadline is postponed by 1 week: new deadlines are May 8 (for abstract submission) and May 15 (for paper submission), respectively.
 - Call for Papers is now available on this [link](cfp).
 
