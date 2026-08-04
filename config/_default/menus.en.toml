@@ -17,16 +17,22 @@
    identifier = 'cfp'
 
 [[main]]
-   name = "Committees"
-   pageRef = "committees"
+   name = "Accepted Papers"
+   pageRef = "accepted_papers"
    weight = 2
-   identifier = 'committees'
+   identifier = 'accepted_papers'
 
 [[main]]
    name = "Financial Applications"
    pageRef = "financial_assistance"
    weight = 3
    identifier = 'financial_assistance'
+
+[[main]]
+   name = "Committees"
+   pageRef = "committees"
+   weight = 4
+   identifier = 'committees'
 
 [[main]]
    name = "Host ACM EAAMO'27"
