@@ -1,7 +1,7 @@
 ---
 title: "Accepted Papers"
 date: 2026-08-04
-draft: false
+draft: true
 showTableOfContents: false
 layout: "simple"
 ---

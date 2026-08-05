@@ -16,11 +16,13 @@
    weight = 1
    identifier = 'cfp'
 
-[[main]]
-   name = "Accepted Papers"
-   pageRef = "accepted_papers"
-   weight = 2
-   identifier = 'accepted_papers'
+# [[main]]
+#    name = "Accepted Papers"
+#    pageRef = "accepted_papers"
+#    weight = 2
+#    identifier = 'accepted_papers'
+# Page content lives in content/accepted_papers/index.md (currently draft: true).
+# Un-comment this block and set draft: false on that page to publish it.
 
 [[main]]
    name = "Financial Applications"
