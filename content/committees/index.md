@@ -22,6 +22,12 @@ To contact the program chairs, email: pc26@eaamo.org
 
 {{< chair_image src="profile_photos/miri_zilka.jpg" name="Miri Zilka" affiliation="University of Cambridge, UK" link="https://sites.google.com/view/miri-zilka/home" >}}
 
+## Poster Chairs
+
+{{< chair_image src="profile_photos/felipe_verastagui_grunewald.webp" name="Felipe Verastegui-Gruenewald" affiliation="Columbia University, USA" link="https://ieor.columbia.edu/content/felipe-alberto-verastegui-gruenewald" >}}
+
+{{< chair_image src="profile_photos/lisa_bondo_andersen.jpg" name="Lisa Bondo Andersen" affiliation="Ludwig-Maximilians-Universität München, Germany" link="https://www.stat.lmu.de/soda/en/team/contact-page/lisa-bondo-andersen-2f52f844.html" >}}
+
 ## Social Media Chairs
 
 To contact the social media chairs, email: socialmedia@eaamo.org
