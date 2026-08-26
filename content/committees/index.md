@@ -22,6 +22,10 @@ To contact the program chairs, email: pc26@eaamo.org
 
 {{< chair_image src="profile_photos/miri_zilka.jpg" name="Miri Zilka" affiliation="University of Cambridge, UK" link="https://sites.google.com/view/miri-zilka/home" >}}
 
+## Proceedings Chair
+
+{{< chair_image src="profile_photos/gaurab_pokharel.jpg" name="Gaurab Pokharel" affiliation="Virginia Tech, USA" link="https://gpokharel.com/" >}}
+
 ## Sponsorship and Development Chairs
 
 {{< chair_image src="profile_photos/lily_xu.jpg" name="Lily Xu" affiliation="Columbia University, USA" link="https://lily-x.github.io/" >}}
