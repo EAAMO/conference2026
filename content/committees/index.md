@@ -22,6 +22,14 @@ To contact the program chairs, email: pc26@eaamo.org
 
 {{< chair_image src="profile_photos/miri_zilka.jpg" name="Miri Zilka" affiliation="University of Cambridge, UK" link="https://sites.google.com/view/miri-zilka/home" >}}
 
+## Sponsorship and Development Chairs
+
+{{< chair_image src="profile_photos/lily_xu.jpg" name="Lily Xu" affiliation="Columbia University, USA" link="https://lily-x.github.io/" >}}
+
+{{< chair_image src="profile_photos/juba_ziani.jpg" name="Juba Ziani" affiliation="Georgia Institute of Technology, USA" link="https://sites.gatech.edu/juba-ziani/" >}}
+
+{{< chair_image src="profile_photos/matt_boulos.jpg" name="Matt Boulos" affiliation="Imbue, USA" note="EAAMO Board" link="https://boulos.ca/" >}}
+
 ## Poster Chairs
 
 {{< chair_image src="profile_photos/felipe_verastagui_grunewald.webp" name="Felipe Verastegui-Gruenewald" affiliation="Columbia University, USA" link="https://ieor.columbia.edu/content/felipe-alberto-verastegui-gruenewald" >}}
