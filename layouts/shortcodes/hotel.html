@@ -1,0 +1,14 @@
+{{- $name := .Get "name" -}}
+{{- $address := .Get "address" -}}
+{{- $destination := .Get "destination" | default "LMU München Hauptgebäude, Geschwister-Scholl-Platz 1, 80539 München" -}}
+{{- $mode := .Get "mode" | default "walking" -}}
+{{- $directions := printf "https://www.google.com/maps/dir/?%s" (querify "api" "1" "origin" (printf "%s, %s" $name $address) "destination" $destination "travelmode" $mode) -}}
+<section class="hotel-card">
+  <div class="hotel-card-info">
+    <h3 id="{{ $name | anchorize }}">{{ $name }}</h3>
+    <p class="hotel-card-address">{{ $address }}</p>
+    {{ .Inner | .Page.RenderString (dict "display" "block") }}
+    <p class="hotel-card-directions"><a href="{{ $directions }}" target="_blank" rel="noopener">Directions to LMU &#8599;</a></p>
+  </div>
+  {{ partial "gmap.html" (dict "q" (printf "%s, %s" $name $address) "title" (printf "Map of %s" $name)) }}
+</section>

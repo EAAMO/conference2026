@@ -1,0 +1,10 @@
+{{- /* Keyless Google Maps embed. Params: q (search query/address), title, zoom. */ -}}
+{{- $zoom := .zoom | default "15" -}}
+<div class="gmap">
+  <iframe
+    src="https://maps.google.com/maps?q={{ .q }}&z={{ $zoom }}&output=embed"
+    title="{{ .title | default (printf "Map of %s" .q) }}"
+    loading="lazy"
+    referrerpolicy="no-referrer-when-downgrade"
+    allowfullscreen></iframe>
+</div>

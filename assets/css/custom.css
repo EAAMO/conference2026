@@ -725,3 +725,111 @@ nav li > ul a:focus-visible {
     border-radius: 0 0 1rem 1rem;
   }
 }
+
+/* Hotel recommendations page: Google Maps embeds and hotel cards */
+.gmap {
+  overflow: hidden;
+  border: 1px solid rgba(31, 42, 96, 0.1);
+  border-radius: 0.55rem;
+  box-shadow: 0 12px 28px rgba(31, 42, 96, 0.08);
+}
+
+.gmap iframe {
+  display: block;
+  width: 100%;
+  height: 22rem;
+  border: 0;
+}
+
+.hotel-card {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(0, 1fr);
+  gap: 1.25rem;
+  align-items: stretch;
+  margin: 1.25rem 0 1.75rem;
+  padding: 1rem 1.1rem;
+  border: 1px solid rgba(31, 42, 96, 0.1);
+  border-left: 0.32rem solid var(--eaamo-orange);
+  border-radius: 0.55rem;
+  background: rgba(255, 248, 238, 0.66);
+  box-shadow: 0 12px 28px rgba(31, 42, 96, 0.08);
+}
+
+.prose .hotel-card h3 {
+  margin-top: 0;
+  margin-bottom: 0.25rem;
+}
+
+.prose .hotel-card p.hotel-card-address {
+  margin: 0 0 0.5rem;
+  font-weight: 600;
+}
+
+.prose .hotel-card ul {
+  margin: 0.5rem 0;
+  padding-left: 0;
+  list-style: none;
+}
+
+.prose .hotel-card li {
+  margin: 0.2rem 0;
+  padding-left: 0;
+}
+
+.prose .hotel-card li::before {
+  content: none;
+}
+
+.prose .hotel-card p.hotel-card-directions {
+  margin: 0.75rem 0 0;
+}
+
+.hotel-card .gmap iframe {
+  height: 100%;
+  min-height: 15rem;
+}
+
+.dark .gmap {
+  border-color: rgba(255, 248, 238, 0.12);
+}
+
+.dark .hotel-card {
+  border-color: rgba(255, 248, 238, 0.12);
+  border-left-color: var(--eaamo-yellow);
+  background: rgba(255, 248, 238, 0.08);
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.18);
+}
+
+@media (max-width: 767px) {
+  .hotel-card {
+    grid-template-columns: minmax(0, 1fr);
+  }
+}
+
+/* Registration page: call-to-action button */
+.prose a.register-button {
+  display: inline-block;
+  margin-top: 0.4rem;
+  padding: 0.65rem 1.1rem;
+  border-radius: 0.55rem;
+  color: var(--eaamo-cream);
+  background: var(--eaamo-dark-blue);
+  font-weight: 700;
+  text-decoration: none;
+  box-shadow: 0 12px 28px rgba(31, 42, 96, 0.14);
+}
+
+.prose a.register-button:hover,
+.prose a.register-button:focus-visible {
+  background: var(--eaamo-orange);
+}
+
+.dark .prose a.register-button {
+  color: var(--eaamo-dark-blue-deep);
+  background: var(--eaamo-yellow);
+}
+
+.dark .prose a.register-button:hover,
+.dark .prose a.register-button:focus-visible {
+  background: var(--eaamo-cream);
+}
