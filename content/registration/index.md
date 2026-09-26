@@ -9,14 +9,13 @@ showTableOfContents: true
 
 ## Registration
 
-Registration for the Sixth ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (ACM EAAMO '26) will open soon. The early bird registration deadline is **October 15, 2026**.
+Registration for the Sixth ACM Conference on Equity and Access in Algorithms, Mechanisms, and Optimization (ACM EAAMO '26) is now open! The early bird registration deadline is **October 15, 2026**.
 
 **Important note:** Participants who received a complimentary registration grant through our [financial assistance program](/financial_assistance/) will receive a code that allows them to register for free. **Please wait for that code before registering.** We will not be able to reimburse registration if you register without this code.
 
-<!-- TODO: add the registration link and uncomment the button below.
-<a class="register-button" href="REGISTRATION_URL" target="_blank" rel="noopener">Register for ACM EAAMO '26 here</a>
--->
-**The registration link will be posted here soon.**
+<div class="register-cta">
+<a class="register-button" href="https://cvent.me/rlMmKA" target="_blank" rel="noopener">Register for ACM EAAMO '26 here</a>
+</div>
 
 If you have any questions, please contact us at [membership@eaamo.org](mailto:membership@eaamo.org).
 

@@ -807,21 +807,29 @@ nav li > ul a:focus-visible {
 }
 
 /* Registration page: call-to-action button */
+.register-cta {
+  margin: 1.5rem 0;
+  text-align: center;
+}
+
 .prose a.register-button {
   display: inline-block;
-  margin-top: 0.4rem;
-  padding: 0.65rem 1.1rem;
-  border-radius: 0.55rem;
+  padding: 1rem 2rem;
+  border-radius: 0.65rem;
   color: var(--eaamo-cream);
-  background: var(--eaamo-dark-blue);
-  font-weight: 700;
+  background: var(--eaamo-orange);
+  font-size: 1.25rem;
+  font-weight: 800;
+  line-height: 1.25;
   text-decoration: none;
-  box-shadow: 0 12px 28px rgba(31, 42, 96, 0.14);
+  box-shadow: 0 14px 32px rgba(240, 107, 82, 0.35);
+  transition: background 0.15s ease, transform 0.15s ease;
 }
 
 .prose a.register-button:hover,
 .prose a.register-button:focus-visible {
-  background: var(--eaamo-orange);
+  background: var(--eaamo-dark-blue);
+  transform: translateY(-2px);
 }
 
 .dark .prose a.register-button {
@@ -832,4 +840,34 @@ nav li > ul a:focus-visible {
 .dark .prose a.register-button:hover,
 .dark .prose a.register-button:focus-visible {
   background: var(--eaamo-cream);
+}
+
+/* Homepage: registration announcement banner */
+.home-announcement {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 0 1.5rem;
+  padding: 1.1rem 1.35rem;
+  border: 1px solid rgba(31, 42, 96, 0.1);
+  border-left: 0.32rem solid var(--eaamo-orange);
+  border-radius: 0.55rem;
+  background: rgba(255, 248, 238, 0.82);
+  box-shadow: 0 12px 28px rgba(31, 42, 96, 0.08);
+}
+
+.prose .home-announcement p {
+  margin: 0;
+  min-width: 0;
+  flex: 1 1 18rem;
+  font-size: 1.05rem;
+}
+
+.dark .home-announcement {
+  border-color: rgba(255, 248, 238, 0.12);
+  border-left-color: var(--eaamo-yellow);
+  background: rgba(255, 248, 238, 0.08);
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.18);
 }
