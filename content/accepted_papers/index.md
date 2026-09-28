@@ -43,7 +43,7 @@ ACM EAAMO'26 received a large number of submissions, of which **70** were accept
 *Hamid Arzani, Hossein Abouee Mehrizi*
 
 #### Escaping the Nash Trap: Structural Estimation and Alignment of Strategic Reasoning in Large Language Models
-*Jane Yi Jiang, Jiannan Xu, Jiding Zhang, Yongkang Duan*
+*Jiannan Xu, Yongkang Duan, Jane Yi Jiang, Jiding Zhang*
 
 #### Fair Allocations Under Laminar Matroid Constraints
 *Benjamin Cookson, Nisarg Shah*
