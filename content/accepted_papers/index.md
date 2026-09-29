@@ -76,7 +76,7 @@ ACM EAAMO'26 received a large number of submissions, of which **70** were accept
 *Alex DiChristofano, Patrick J. Fowler, Sanmay Das*
 
 #### Pareto-Efficient Multi-Buyer Mechanisms: Characterization, Fairness and Welfare
-*Yiding Feng, Zhaohua Chen, Sijin Chen*
+*Moshe Babaioff, Sijin Chen, Zhaohua Chen, Yiding Feng*
 
 #### Remediation Algorithms for Input Error in Deferred Acceptance School Matchings
 *Cory Margarucci, Amélie Marian*
