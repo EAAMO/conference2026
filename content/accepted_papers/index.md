@@ -188,7 +188,7 @@ ACM EAAMO'26 received a large number of submissions, of which **70** were accept
 *Neil Dixit*
 
 #### Multimodal Poverty Mapping and Geographic Transfer Allocation
-*Andrew H. Kim, Arunesh Sinha, Krittika Garg, Saeed Ghadimi, Tawfiq Ammari, Vatsal Shah, Woojin Jung, Quentin Stoeffler*
+*Woojin Jung, Andrew H. Kim, Arunesh Sinha, Quentin Stoeffler, Saeed Ghadimi, Vatsal Shah, Krittika Garg, Tawfiq Ammari*
 
 #### Optimizing for Fairness in Generalized Kidney Exchange: Theory and Computations
 *Arin Khare, Claire S. Chang, David Shmoys*
