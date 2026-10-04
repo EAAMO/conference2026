@@ -63,17 +63,22 @@ We are grateful for the support from:
 
 <p>
 <center>
-    <img src="sponsors_images/mcml_logo.png" alt="MCML" width="30%" style="display:inline-block;" />
+    <a href="https://mcml.ai/" target="_blank" rel="noopener"><img src="sponsors_images/mcml_logo.png" alt="MCML" width="30%" style="display:inline-block;" /></a>
 </center>
 </p>
 <p>
 <center>
-    <img src="sponsors_images/acm_logo.png" alt="ACM" width="30%" style="display:inline-block;" />
-    <img src="sponsors_images/sigai.png" alt="ACM SIGAI" width="18%" style="display:inline-block;" />
+    <a href="https://www.acm.org/" target="_blank" rel="noopener"><img src="sponsors_images/acm_logo.png" alt="ACM" width="30%" style="display:inline-block;" /></a>
+    <a href="https://sigai.acm.org/" target="_blank" rel="noopener"><img src="sponsors_images/sigai.png" alt="ACM SIGAI" width="18%" style="display:inline-block;" /></a>
 </center>
 </p>
 <p>
 <center>
-    <img src="sponsors_images/TUM_RelAI.transparent.png" alt="TUM RelAI" width="30%" style="display:inline-block;" />
+    <a href="https://www.zuseschoolrelai.de/" target="_blank" rel="noopener"><img src="sponsors_images/TUM_RelAI.transparent.png" alt="TUM relAI" width="30%" style="display:inline-block;" /></a>
+</center>
+</p>
+<p>
+<center>
+    <a href="https://pl.xyz/" target="_blank" rel="noopener"><img src="sponsors_images/protocol_labs.png" alt="Protocol Labs" width="30%" style="display:inline-block;" /></a>
 </center>
 </p>
