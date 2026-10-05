@@ -871,3 +871,34 @@ nav li > ul a:focus-visible {
   background: rgba(255, 248, 238, 0.08);
   box-shadow: 0 12px 28px rgba(0, 0, 0, 0.18);
 }
+
+/* Homepage: sponsor tier labels (colours match the sponsorship tiers table) */
+.prose p.sponsor-tier {
+  margin: 1.75rem 0 0.35rem;
+  text-align: center;
+}
+
+.sponsor-tier span {
+  display: inline-block;
+  padding: 0.3rem 1.1rem;
+  border-radius: 999px;
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.sponsor-tier--gold span {
+  color: #151d41;
+  background: #d8b136;
+}
+
+.sponsor-tier--silver span {
+  color: #151d41;
+  background: #c4cad2;
+}
+
+.sponsor-tier--bronze span {
+  color: #fff;
+  background: #d9853b;
+}
