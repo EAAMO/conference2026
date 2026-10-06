@@ -85,7 +85,7 @@ ACM EAAMO'26 received a large number of submissions, of which **70** were accept
 *Leann Thayaparan, Neha Sharma, Vikas Deep*
 
 #### Screening for Usage
-*Justin Hadad*
+*Justin Hadad, Kyle Woodward*
 
 #### Search and Matching for Adoption from Foster Care
 *Ludwig Dierks, M. Utku Unver, Sven Seuken, Nils Olberg, Vincent W. Slaugh*
