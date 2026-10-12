@@ -34,7 +34,7 @@ ACM EAAMO'26 received a large number of submissions, of which **70** were accept
 *Alexander Tolbert, Jingzhou Huang, Jiuyao Lu*
 
 #### Data Exports Unpacked: A User Study on Visualizing Exports under Article 20 GDPR
-*Emmanuel Syrmoudis, Jannis Bittlmayer, Jens Grossklags, Maximilian Josef Frank*
+*Emmanuel Syrmoudis, Jannis Bittlmayer, Maximilian Josef Frank, Jens Grossklags*
 
 #### Educational Sycophancy in Multi-Turn Student Interactions with Large Language Models
 *Aleksandra Korolova, Grace Liu*

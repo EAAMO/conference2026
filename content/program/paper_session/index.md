@@ -157,7 +157,7 @@ Paper sessions run across all three days of ACM EAAMO'26. Each talk presents an 
 *Aleksandra Korolova, Grace Liu*
 
 #### Data Exports Unpacked: A User Study on Visualizing Exports under Article 20 GDPR
-*Emmanuel Syrmoudis, Jannis Bittlmayer, Jens Grossklags, Maximilian Josef Frank*
+*Emmanuel Syrmoudis, Jannis Bittlmayer, Maximilian Josef Frank, Jens Grossklags*
 
 #### Who Gets Heeded? An Obligation-Level Audit of Responsiveness in EPA Rulemaking
 *Jianing Fan, Yue Yao*
