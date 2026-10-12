@@ -11,61 +11,99 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-   name = "Calls"
-   weight = 3
-   identifier = 'calls'
-
-[[main]]
-   name = "Call for Papers"
-   pageRef = "cfp"
-   weight = 21
-   identifier = 'cfp'
-   parent = 'calls'
-
-[[main]]
-   name = "Call for Posters"
-   pageRef = "call_for_posters"
-   weight = 22
-   identifier = 'call_for_posters'
-   parent = 'calls'
-
-[[main]]
-   name = "Accepted Papers"
-   pageRef = "accepted_papers"
-   weight = 4
-   identifier = 'accepted_papers'
-
-[[main]]
    name = "Attending"
+   pageRef = "registration"
    weight = 2
    identifier = 'attending'
 
 [[main]]
    name = "Registration"
    pageRef = "registration"
-   weight = 31
+   weight = 21
    identifier = 'registration'
    parent = 'attending'
 
 [[main]]
    name = "Hotel Recommendations"
    pageRef = "hotel_recommendations"
-   weight = 32
+   weight = 22
    identifier = 'hotel_recommendations'
    parent = 'attending'
 
 [[main]]
    name = "Financial Applications"
    pageRef = "financial_assistance"
-   weight = 33
+   weight = 23
    identifier = 'financial_assistance'
    parent = 'attending'
+
+[[main]]
+   name = "Conference Program"
+   pageRef = "program"
+   weight = 3
+   identifier = 'conference_program'
+
+[[main]]
+   name = "Program at a Glance"
+   pageRef = "program"
+   weight = 31
+   identifier = 'program'
+   parent = 'conference_program'
+
+[[main]]
+   name = "Paper Session"
+   pageRef = "program/paper_session"
+   weight = 32
+   identifier = 'paper_session'
+   parent = 'conference_program'
+
+[[main]]
+   name = "Poster Session"
+   pageRef = "program/poster_session"
+   weight = 33
+   identifier = 'poster_session'
+   parent = 'conference_program'
+
+[[main]]
+   name = "WiP Poster Session"
+   pageRef = "program/work_in_progress_poster_session"
+   weight = 34
+   identifier = 'wip_poster_session'
+   parent = 'conference_program'
+
+[[main]]
+   name = "Calls"
+   pageRef = "cfp"
+   weight = 4
+   identifier = 'calls'
+
+[[main]]
+   name = "Call for Papers"
+   pageRef = "cfp"
+   weight = 41
+   identifier = 'cfp'
+   parent = 'calls'
+
+[[main]]
+   name = "Call for Posters"
+   pageRef = "call_for_posters"
+   weight = 42
+   identifier = 'call_for_posters'
+   parent = 'calls'
 
 [[main]]
    name = "Committees"
    pageRef = "committees"
    weight = 5
    identifier = 'committees'
+
+# [[main]]
+#    name = "Accepted Papers"
+#    pageRef = "accepted_papers"
+#    weight = 4
+#    identifier = 'accepted_papers'
+# Page content lives in content/accepted_papers/index.md (draft: false, so the page
+# is live and reachable by URL - only the menu entry is hidden).
 
 [[main]]
    name = "Host ACM EAAMO'27"
@@ -78,12 +116,6 @@
   weight = 99
   [main.params]
     action = "search"
-
-# [[main]]
-#  identifier = "locale"
-#  weight = 100
-#  [main.params]
-#    action = "locale"
 
 # -- Footer Menu --
 # The footer menu is displayed at the bottom of the page, just before

@@ -47,6 +47,7 @@ The Sixth ACM Conference on Equity and Access in Algorithms, Mechanisms, and Opt
 - - -
 
 ## News
+- The [Program at a Glance](program) is now available, with the full schedule for November 5-7 and the lists of [paper](program/paper_session/) and [poster](program/poster_session/) sessions. The program is preliminary and subject to change.
 - [Registration](registration) for ACM EAAMO'26 is now open. Register by October 15, 2026 to get the early bird rate.
 - The [Call for Posters](call_for_posters) is now open. Submit your work-in-progress poster by September 7, 2026.
 - [Financial assistance applications](financial_assistance) are now open. Apply by August 25, 2026.
