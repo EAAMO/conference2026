@@ -30,7 +30,7 @@ The program below is preliminary and subject to change. Details of the individua
 | 15:15–16:30 | [Session 2](/program/paper_session/) (5 talks) |
 | 16:30–17:00 | Break + Coffee |
 | 17:00–18:00 | Keynote 1: Moritz Hardt |
-| 18:00 | [RelAI](https://www.zuseschoolrelai.de/) Conference Reception |
+| 18:00 | Conference Reception sponsored by [RelAI](https://www.zuseschoolrelai.de/) |
 
 - - -
 
@@ -42,7 +42,7 @@ The program below is preliminary and subject to change. Details of the individua
 | 9:30–10:45 | [Session 3](/program/paper_session/) (5 talks) |
 | 10:45–11:00 | Coffee |
 | 11:00–12:15 | [Session 4](/program/paper_session/) (5 talks) |
-| 12:15–14:00 | [Protocol Labs](https://pl.xyz/) Lunch + [Highlighted Poster Session A](/program/poster_session/) |
+| 12:15–14:00 | Lunch sponsored by [Protocol Labs](https://pl.xyz/) + [Highlighted Poster Session A](/program/poster_session/) |
 | 14:00–15:00 | Panel: causal inference |
 | 15:00–16:00 | [Session 5](/program/paper_session/) (4 talks) |
 | 16:00–16:30 | Coffee Break + Group Picture |
