@@ -58,7 +58,7 @@ The list of posters for this session will be published here closer to the confer
 | Learning About (Widely) Influential Technologies | Civitarese |
 | Learning Optimal Suggested Donation Menus with (Misspecified) Linear Bandits | Ma, Rodilitz |
 | Multi-Representation Ensemble Outlier Detection for Computational Redistricting | Dixit |
-| Multimodal Poverty Mapping and Geographic Transfer Allocation | Kim et al. |
+| Multimodal Poverty Mapping and Geographic Transfer Allocation | Jung et al. |
 | Optimizing for Fairness in Generalized Kidney Exchange: Theory and Computations | Khare, Chang, Shmoys |
 | Quantifying Diversity of Educational Evaluation Using Relative Student Performance | Brubach, Xiao |
 | Reassessing the Role of Standardized Tests in University Admissions | Isley et al. |
