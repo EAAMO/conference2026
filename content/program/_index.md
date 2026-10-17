@@ -21,7 +21,7 @@ The program below is preliminary and subject to change. Details of the individua
 | Time | Item |
 |------|------|
 | 10:00–10:30 | Breakfast |
-| 10:30–12:00 | [Summer Poster Session](/program/poster_session/) |
+| 10:30–12:00 | [Summer of Science Poster Session](/program/poster_session/) |
 | 11:00–12:00 | Social Tour: Guided [*White Rose*](https://muenchen.de/en/sights/white-rose-memorial-significance-leaflets-members) (Weiße Rose) tour of the LMU Lichthof and memorial room |
 | 12:00–13:00 | Registration and light lunch |
 | 13:00–13:30 | Opening |
@@ -42,8 +42,8 @@ The program below is preliminary and subject to change. Details of the individua
 | 9:30–10:45 | [Session 3](/program/paper_session/) (5 talks) |
 | 10:45–11:00 | Coffee |
 | 11:00–12:15 | [Session 4](/program/paper_session/) (5 talks) |
-| 12:15–14:00 | Lunch sponsored by [Protocol Labs](https://pl.xyz/) + [Highlighted Poster Session A](/program/poster_session/) |
-| 14:00–15:00 | Panel: causal inference |
+| 12:15–14:00 | Lunch + [Highlighted Poster Session A](/program/poster_session/) |
+| 14:00–15:00 | Panel: Causal Inference |
 | 15:00–16:00 | [Session 5](/program/paper_session/) (4 talks) |
 | 16:00–16:30 | Coffee Break + Group Picture |
 | 16:30–17:30 | Keynote 2: Mohsen Bayati |
@@ -59,8 +59,8 @@ The program below is preliminary and subject to change. Details of the individua
 | 9:00–9:30 | Breakfast |
 | 9:30–10:45 | [Session 6](/program/paper_session/) (5 talks) |
 | 10:45–11:00 | Coffee |
-| 11:00–12:00 | Bridges working groups |
-| 12:00–13:30 | Lunch + [Work-in-Progress posters](/program/work_in_progress_poster_session/) (<50) |
+| 11:00–12:00 | EAAMO Bridges Working Groups |
+| 12:00–13:30 | Lunch sponsored by [Protocol Labs](https://pl.xyz/) + [Work-in-Progress posters](/program/work_in_progress_poster_session/) (<50) |
 | 13:30–14:45 | [Session 7](/program/paper_session/) |
 | 14:45–15:30 | Fireside chat: Abeba Birhane |
 | 15:30–16:00 | Awards and closing |
