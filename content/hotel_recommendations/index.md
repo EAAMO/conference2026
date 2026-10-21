@@ -6,7 +6,7 @@ showTableOfContents: false
 layout: "simple"
 ---
 
-ACM EAAMO'26 takes place at Ludwig-Maximilians-Universität München (LMU). Below are recommended hotels within walking distance of LMU, as well as further options in the city centre. Where a booking code is listed, please mention it when making your reservation.
+ACM EAAMO'26 takes place at the main building of Ludwig-Maximilians-Universität München (LMU), Geschwister-Scholl-Platz 1, 80539 Munich. Below are recommended hotels within walking distance of LMU, as well as further options in the city centre. Where a booking code is listed, please mention it when making your reservation.
 
 {{< gmap q="LMU München Hauptgebäude, Geschwister-Scholl-Platz 1, 80539 München" zoom="14" title="Map of Ludwig-Maximilians-Universität München" >}}
 

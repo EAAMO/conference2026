@@ -27,7 +27,7 @@ All rates cover the full conference and workshops.
 
 ### In-Person Attendance
 
-ACM EAAMO '26 will take place in person at **Ludwig-Maximilians-Universität München (LMU), Munich, Germany**, on November 5–7, 2026. See our [hotel recommendations](/hotel_recommendations/) for places to stay nearby.
+ACM EAAMO '26 will take place in person at the **main building of Ludwig-Maximilians-Universität München (LMU), Geschwister-Scholl-Platz 1, 80539 Munich, Germany**, on November 5–7, 2026. See our [hotel recommendations](/hotel_recommendations/) for places to stay nearby.
 
 The registration fees for *in-person attendance* are the following:
 

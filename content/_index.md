@@ -22,7 +22,7 @@ The Sixth ACM Conference on Equity and Access in Algorithms, Mechanisms, and Opt
   </div>
   <div>
     <span>Venue</span>
-    <strong>Ludwig-Maximilians-Universität München</strong>
+    <strong>Ludwig-Maximilians-Universität München<br>Geschwister-Scholl-Platz 1, 80539 Munich</strong>
   </div>
   <div>
     <span>Location</span>

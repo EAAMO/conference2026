@@ -6,7 +6,7 @@ showTableOfContents: true
 layout: "simple"
 ---
 
-ACM EAAMO'26 takes place from **November 5–7, 2026** at Ludwig-Maximilians-Universität München (LMU) in Munich, Germany.
+ACM EAAMO'26 takes place from **November 5–7, 2026** at the main building of Ludwig-Maximilians-Universität München (LMU), **Geschwister-Scholl-Platz 1, 80539 Munich, Germany**.
 
 The program below is preliminary and subject to change. Details of the individual sessions are available on the following pages:
 
