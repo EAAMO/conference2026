@@ -48,7 +48,7 @@ The program below is preliminary and subject to change. Details of the individua
 | 16:00–16:30 | Coffee Break + Group Picture |
 | 16:30–17:30 | Keynote 2: Mohsen Bayati |
 | 17:30–18:30 | [Highlighted Poster Session B](/program/poster_session/) |
-| Evening | Social Happy Hour (Informal drinks & food, organised by the Social Chair) |
+| Evening | Social Happy Hour (Informal drinks & food) |
 
 - - -
 
