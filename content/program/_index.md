@@ -30,7 +30,7 @@ The program below is preliminary and subject to change. Details of the individua
 | 15:15–16:30 | [Session 2](/program/paper_session/) (5 talks) |
 | 16:30–17:00 | Break + Coffee |
 | 17:00–18:00 | Keynote 1: Moritz Hardt |
-| 18:00 | Conference Reception sponsored by [RelAI](https://www.zuseschoolrelai.de/) |
+| 18:00 | Conference Reception sponsored by [RelAI](https://www.zuseschoolrelai.de/) (Finger-food dinner & drinks) |
 
 - - -
 
@@ -48,7 +48,7 @@ The program below is preliminary and subject to change. Details of the individua
 | 16:00–16:30 | Coffee Break + Group Picture |
 | 16:30–17:30 | Keynote 2: Mohsen Bayati |
 | 17:30–18:30 | [Highlighted Poster Session B](/program/poster_session/) |
-| Evening | Social Happy Hour |
+| Evening | Social Happy Hour (Informal drinks & food, organised by the Social Chair) |
 
 - - -
 
