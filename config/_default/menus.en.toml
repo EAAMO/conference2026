@@ -51,23 +51,30 @@
    parent = 'conference_program'
 
 [[main]]
+   name = "Invited Speakers"
+   pageRef = "invited_speakers"
+   weight = 32
+   identifier = 'invited_speakers'
+   parent = 'conference_program'
+
+[[main]]
    name = "Paper Session"
    pageRef = "program/paper_session"
-   weight = 32
+   weight = 33
    identifier = 'paper_session'
    parent = 'conference_program'
 
 [[main]]
    name = "Poster Session"
    pageRef = "program/poster_session"
-   weight = 33
+   weight = 34
    identifier = 'poster_session'
    parent = 'conference_program'
 
 [[main]]
    name = "WiP Poster Session"
    pageRef = "program/work_in_progress_poster_session"
-   weight = 34
+   weight = 35
    identifier = 'wip_poster_session'
    parent = 'conference_program'
 
