@@ -10,9 +10,9 @@ layout: "simple"
 
 To contact the general chairs, email: gc26@eaamo.org
 
-{{< chair_image src="profile_photos/christoph_kern.jpg" name="Christoph Kern" affiliation="Ludwig-Maximilians-Universität München, Germany" link="https://www.stat.lmu.de/soda/en/team/contact-page/christoph-kern-11bd67d0.html" >}}
+{{< chair_image src="profile_photos/christoph_kern.jpg" name="Christoph Kern" affiliation="Ludwig-Maximilians-Universität München, Germany" link="https://www.stat.lmu.de/en/people/contact-page/christoph-kern-11bd67d0.html" >}}
 
-{{< chair_image src="profile_photos/clara_strasser_ceballos.jpg" name="Clara Strasser Ceballos" affiliation="Ludwig-Maximilians-Universität München, Germany" link="https://www.stat.lmu.de/soda/en/team/contact-page/clara-strasser-ceballos-f23c7d12.html" >}}
+{{< chair_image src="profile_photos/clara_strasser_ceballos.jpg" name="Clara Strasser Ceballos" affiliation="Ludwig-Maximilians-Universität München, Germany" link="https://www.stat.lmu.de/en/people/contact-page/clara-strasser-ceballos-f23c7d12.html" >}}
 
 ## Program Chairs
 
