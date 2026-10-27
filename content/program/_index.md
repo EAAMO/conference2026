@@ -23,7 +23,7 @@ The program below is preliminary and subject to change. Details of the individua
 | 10:00–10:30 | Breakfast |
 | 10:30–12:00 | [Summer of Science Poster Session](/program/poster_session/) |
 | 11:00–12:00 | Social Tour: Guided [*White Rose*](https://muenchen.de/en/sights/white-rose-memorial-significance-leaflets-members) (Weiße Rose) tour of the LMU Lichthof and memorial room |
-| 12:00–13:00 | Registration and light lunch |
+| 12:00–13:00 | Registration and lunch |
 | 13:00–13:30 | Opening |
 | 13:30–14:45 | [Session 1](/program/paper_session/) (5 talks) |
 | 14:45–15:15 | Coffee |
