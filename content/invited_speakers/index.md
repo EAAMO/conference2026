@@ -17,7 +17,11 @@ We are excited to announce the **Invited Speakers for ACM EAAMO '26**. Both keyn
 
 *Keynote 1: Thursday, November 5, 17:00–18:00*
 
-*Biography:* Moritz Hardt is a director at the [Max Planck Institute for Intelligent Systems](https://is.mpg.de/sf/person/mhardt) in Tübingen, where he leads the Social Foundations of Computation group, and an honorary professor at the Tübingen AI Center and the University of Tübingen. Prior to joining the institute, he was Associate Professor for Electrical Engineering and Computer Sciences at the University of California, Berkeley. His research contributes to the scientific foundations of machine learning and algorithmic decision making from a social perspective. He is a co-author of the textbooks *Fairness and Machine Learning: Limitations and Opportunities* (MIT Press) and *Patterns, Predictions, and Actions: Foundations of Machine Learning* (Princeton University Press).
+### Morgenstern's Prophecy and the Future of Prediction
+
+*Abstract:* A century ago, economist Oskar Morgenstern conjectured that predicting the social world would be largely impossible for a fundamental reason: predictions change the very reality they seek to anticipate, a phenomenon we now call performativity. Recent advances in performative prediction challenge Morgenstern’s prophecy, but stop short of refuting it. Existing theory largely rests on the assumption that predictions have only a small influence on outcomes. But what if they don’t? A new principle overcomes this limitation. Repeated model training and deployment recover stable signals in the system, even under arbitrarily large performative effects. The stable signals principle sheds light on what to expect from powerful feedback loops on digital platforms and in training large language models.
+
+*Biography:* Moritz Hardt is a director at the [Max Planck Institute for Intelligent Systems](https://is.mpg.de/sf/person/mhardt), an honorary professor at the University of Tübingen, and co-founder of grubel. Prior to joining the institute, he was an associate professor in EECS at UC Berkeley and a researcher at Google Brain. Hardt's research contributes to the scientific foundations of artificial intelligence with a focus on social questions. He is the author of *The Emerging Science of Machine Learning Benchmarks* and co-author of *Fairness and Machine Learning* and *Patterns, Predictions, and Actions*.
 
 - - -
 
