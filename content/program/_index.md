@@ -16,6 +16,20 @@ The program below is preliminary and subject to change. Details of the individua
 
 - - -
 
+## Rooms
+
+All events take place in the LMU main building at Geschwister-Scholl-Platz 1. Room names link to the [LMU Raumfinder](https://www.lmu.de/raumfinder/).
+
+| | Thursday, Nov 5 | Friday, Nov 6 | Saturday, Nov 7 |
+|---|---|---|---|
+| **Registration and info point** | [Speerträger (Spear Bearer)](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001006_) | [Speerträger (Spear Bearer)](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001006_) | [Speerträger (Spear Bearer)](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001006_) |
+| **Talks, sessions, keynotes, panel** | [Große Aula (Great Hall)](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901226_) | [Große Aula (Great Hall)](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901226_) | [Room A125](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001215_) |
+| **Breakfast, coffee breaks and lunch** | [Senatssaal (Senate Hall)](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901239_) | [Senatssaal (Senate Hall)](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901239_) | [Senatssaal (Senate Hall)](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901239_) |
+| **Poster sessions** | [Speerträger (Spear Bearer)](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001006_)<br>Summer Poster Session | [Speerträger (Spear Bearer)](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001006_)<br>Highlighted Posters A & B | [Speerträger (Spear Bearer)](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001006_)<br>Work-in-Progress Posters |
+| **Conference Reception** | [Lichthof (Atrium)](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000000027_) | – | – |
+
+- - -
+
 ## Thursday, November 5
 
 | Time | Item |
