@@ -118,7 +118,7 @@ Paper sessions run across all three days of ACM EAAMO'26. Each talk presents an 
 *Justin Hadad, Kyle Woodward*
 
 #### Equity vs. Efficiency in Service Systems with Differentiated Demand
-*Hamid Arzani, Hossein Abouee Mehrizi*
+*Hamid Arzani, Hossein Abouee Mehrizi, Ming Hu*
 
 - - -
 

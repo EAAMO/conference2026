@@ -40,7 +40,7 @@ ACM EAAMO'26 received a large number of submissions, of which **70** were accept
 *Aleksandra Korolova, Grace Liu*
 
 #### Equity vs. Efficiency in Service Systems with Differentiated Demand
-*Hamid Arzani, Hossein Abouee Mehrizi*
+*Hamid Arzani, Hossein Abouee Mehrizi, Ming Hu*
 
 #### Escaping the Nash Trap: Structural Estimation and Alignment of Strategic Reasoning in Large Language Models
 *Jiannan Xu, Yongkang Duan, Jane Yi Jiang, Jiding Zhang*
