@@ -55,7 +55,7 @@ ACM EAAMO'26 received a large number of submissions, of which **70** were accept
 *Azmine Toushik Wasi, Mahfuz Ahmed Anik, Md Manjurul Ahsan, Mohsin Mahmud Topu*
 
 #### How to Stop Playing Whack-a-Mole: Mapping the Ecosystem of Technologies Facilitating AI-Generated Non-Consensual Intimate Images
-*Harini Suresh, Michelle L. Ding, Suresh Venkatasubramanian*
+*Michelle L. Ding, Harini Suresh, Suresh Venkatasubramanian*
 
 #### Human Resource Management and AI: Building A Collaborative Contextual Transparency Database
 *Ellen Simpson, Mona Sloane, Ryan Ermovick*
@@ -128,7 +128,7 @@ ACM EAAMO'26 received a large number of submissions, of which **70** were accept
 *Francisco Javier Marmolejo-Cossío, Marshall Van Alstyne, Tejovan Janaka Russell Parker, Gabriel McDonnell Maayan*
 
 #### Building Equitable Research Ecosystems with Indigenous Communities in the Global South: Lessons from the Summer of Science Program
-*Francisco Javier Marmolejo-Cossío, Michelle González Amador, Ruben Martinez-Cardenas, Tilsa Ore Monago, Rosalba Medina Rivera*
+*Francisco Javier Marmolejo-Cossío, Michelle González Amador, Ruben Martinez-Cardenas, Tilsa Ore Monago, Rosalba Medina Rivera, Imelda May Flores*
 
 #### Can Price Discrimination be Progressive?
 *Max Biggs, Michael L Hamilton, Titing Cui, Enfeng Xing*
@@ -146,7 +146,7 @@ ACM EAAMO'26 received a large number of submissions, of which **70** were accept
 *Mahyar Habibi, Negar Ziaeian Ghasemzadeh, Zahra Khanalizadeh*
 
 #### Do Fair Models Reason Fairly? Counterfactual Explanation Consistency for Procedural Fairness in Credit Decisions
-*John Sheppard*
+*Gideon Popoola, John Sheppard*
 
 #### Due Process on Hold: A Queueing Framework for Improving Access in SNAP
 *Andrew Daw, Angela Zhou, Chloe Pache*
@@ -161,7 +161,7 @@ ACM EAAMO'26 received a large number of submissions, of which **70** were accept
 *Anna-Alina Bondarets, Joshua R. Loftus, Kateryna Koval, Sakina Hansen*
 
 #### Fairness Is Not Universal: Towards Contextualized and Autonomous Fairness in Federated Learning
-*Naman Goel*
+*Yi Zhou, Naman Goel*
 
 #### Fairness vs Performance: Characterizing the Pareto Frontier of Algorithmic Decision Systems
 *Christoph Heitz, Mieke Wilms*
@@ -182,7 +182,7 @@ ACM EAAMO'26 received a large number of submissions, of which **70** were accept
 *Jamil Civitarese*
 
 #### Learning Optimal Suggested Donation Menus with (Misspecified) Linear Bandits
-*MUZHI MA, Scott Rodilitz*
+*Francisco Castro, Muzhi Ma, Scott Rodilitz*
 
 #### Multi-Representation Ensemble Outlier Detection for Computational Redistricting
 *Neil Dixit*
@@ -209,10 +209,10 @@ ACM EAAMO'26 received a large number of submissions, of which **70** were accept
 *Benedikt Höltgen, Robert Williamson*
 
 #### The Forest from the Trees: Lessons on Public-Sector Deployment from an Academic Collaboration with NYC Department of Parks and Recreation
-*Erica Chiang, Gabriel Agostini, Nikhil Garg, Zhi Liu, Katelyn Liu, Anum Ahmad*
+*Erica Chiang, Gabriel Agostini, Nikhil Garg, Zhi Liu, Katelyn Liu, Anum Ahmad, Tyler Gibson, Uma Bhandaram*
 
 #### Tools and Methods for the Inclusive Co-Design of AI Technologies: A Systematic Scoping Review
-*Courtney Ford, Emma Marlene Kallina, Kevin Doherty, Marie E. Ward, Rob Brennan, Sajjad Karimian*
+*Courtney Ford, Emma Marlene Kallina, Kayley Moylan, Kevin Doherty, María Paula Silva, Marie E. Ward, Rob Brennan, Sajjad Karimian, Uzoma Ibekwe*
 
 #### Toward Permanence: Sustainability Contract Design for Smallholder Agriculture
 *Yanchong Karen Zheng, Yuan Shi, Joann de Zegher*
@@ -224,5 +224,5 @@ ACM EAAMO'26 received a large number of submissions, of which **70** were accept
 *Hugo Berard, Shin Koseki, Rashid Mushkani*
 
 #### "Whose Voice Is It, Anyway?" Towards a Feminist Critical Disability Studies Approach to ‘Making People Up’ with GenAI
-*Aisha Sobey*
+*Aisha Sobey, Isabel Koval*
 

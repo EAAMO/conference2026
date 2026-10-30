@@ -148,7 +148,7 @@ Paper sessions run across all three days of ACM EAAMO'26. Each talk presents an 
 *Saturday, November 7, 13:30–14:45*
 
 #### How to Stop Playing Whack-a-Mole: Mapping the Ecosystem of Technologies Facilitating AI-Generated Non-Consensual Intimate Images
-*Harini Suresh, Michelle L. Ding, Suresh Venkatasubramanian*
+*Michelle L. Ding, Harini Suresh, Suresh Venkatasubramanian*
 
 #### Bridging Offline and online Spaces: A Participatory Framework for Detecting Sexual Exploitation
 *Anjali Mazumder, Harry Bowles, Yesim Kakalic, Jat Singh, Sarada Mahesh*

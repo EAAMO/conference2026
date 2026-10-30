@@ -27,7 +27,7 @@ The list of posters for this session will be published here closer to the confer
 Highlighted posters are presented in two sessions on Friday: Session A from 12:15 to 14:00 (with lunch) and Session B from 17:30 to 18:30.
 
 #### "Whose Voice Is It, Anyway?" Towards a Feminist Critical Disability Studies Approach to ‘Making People Up’ with GenAI
-*Aisha Sobey*
+*Aisha Sobey, Isabel Koval*
 Presented by Isabel Koval
 
 #### Distinguishing Biases from Personal Preferences: An Honest Machine Learning Approach
@@ -83,11 +83,11 @@ Presented by Brian Brubach
 Presented by Calvin Isley
 
 #### The Forest from the Trees: Lessons on Public-Sector Deployment from an Academic Collaboration with NYC Department of Parks and Recreation
-*Erica Chiang, Gabriel Agostini, Nikhil Garg, Zhi Liu, Katelyn Liu, Anum Ahmad*
+*Erica Chiang, Gabriel Agostini, Nikhil Garg, Zhi Liu, Katelyn Liu, Anum Ahmad, Tyler Gibson, Uma Bhandaram*
 Presented by Gabriel Agostini
 
 #### Tools and Methods for the Inclusive Co-Design of AI Technologies: A Systematic Scoping Review
-*Courtney Ford, Emma Marlene Kallina, Kevin Doherty, Marie E. Ward, Rob Brennan, Sajjad Karimian*
+*Courtney Ford, Emma Marlene Kallina, Kayley Moylan, Kevin Doherty, María Paula Silva, Marie E. Ward, Rob Brennan, Sajjad Karimian, Uzoma Ibekwe*
 Presented by María Paula Silva
 
 #### WeDesign+: Deliberative Visual AI for Public Space Planning
