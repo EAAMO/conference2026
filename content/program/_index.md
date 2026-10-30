@@ -30,6 +30,24 @@ All events take place in the LMU main building at Geschwister-Scholl-Platz 1. Ro
 
 - - -
 
+## Keynote Speakers
+
+Full biographies are on the [invited speakers](/invited_speakers/) page.
+
+### Moritz Hardt — *Morgenstern's Prophecy and the Future of Prediction*
+
+*Thursday, November 5, 17:00–18:00, [Große Aula](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901226_)*
+
+Moritz Hardt is a director at the Max Planck Institute for Intelligent Systems and an honorary professor at the University of Tübingen. A century ago, economist Oskar Morgenstern conjectured that predicting the social world would be largely impossible, because predictions change the very reality they seek to anticipate — what we now call performativity. This talk revisits that prophecy through recent advances in performative prediction, and introduces a stable signals principle that holds even under arbitrarily large performative effects. [Read the full abstract and biography](/invited_speakers/#moritz-hardt).
+
+### Mohsen Bayati — *From Automating Expertise to Scaling Oversight*
+
+*Friday, November 6, 16:30–17:30, [Große Aula](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901226_)*
+
+Mohsen Bayati is the Carl and Marilynn Thoma Professor of Operations, Information and Technology at the Stanford Graduate School of Business. As AI agents take on tasks that used to require substantial human expertise, a new challenge emerges: determining when human oversight remains necessary. Starting from a clinical prediction problem, the talk asks when autonomous agents should act independently and when they should seek human intervention, and how effective oversight can be maintained as AI capabilities advance. [Read the full abstract and biography](/invited_speakers/#mohsen-bayati).
+
+- - -
+
 ## Thursday, November 5
 
 | Time | Item | Room |
@@ -43,7 +61,7 @@ All events take place in the LMU main building at Geschwister-Scholl-Platz 1. Ro
 | 14:45–15:15 | Coffee | [Senatssaal](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901239_) |
 | 15:15–16:30 | [Session 2](/program/paper_session/) (5 talks) | [Große Aula](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901226_) |
 | 16:30–17:00 | Break + Coffee | [Senatssaal](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901239_) |
-| 17:00–18:00 | Keynote 1: Moritz Hardt | [Große Aula](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901226_) |
+| 17:00–18:00 | [Keynote 1: Moritz Hardt](/invited_speakers/#moritz-hardt) | [Große Aula](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901226_) |
 | 18:00 | Conference Reception sponsored by [RelAI](https://www.zuseschoolrelai.de/) (Finger-food dinner & drinks) | [Lichthof](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000000027_) |
 
 - - -
@@ -57,10 +75,10 @@ All events take place in the LMU main building at Geschwister-Scholl-Platz 1. Ro
 | 10:45–11:00 | Coffee | [Senatssaal](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901239_) |
 | 11:00–12:15 | [Session 4](/program/paper_session/) (5 talks) | [Große Aula](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901226_) |
 | 12:15–14:00 | Lunch + [Highlighted Poster Session A](/program/poster_session/) | [Senatssaal](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901239_) / [Speerträger](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001006_) |
-| 14:00–15:00 | Panel: Causal Inference moderated by Hannah Li | [Große Aula](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901226_) |
+| 14:00–15:00 | Causal Inference for Social Good: Panel Discussion with Niki Kilbertus and Angela Zhou (moderated by Hannah Li) | [Große Aula](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901226_) |
 | 15:00–16:00 | [Session 5](/program/paper_session/) (4 talks) | [Große Aula](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901226_) |
 | 16:00–16:30 | Coffee Break + Group Picture | [Senatssaal](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901239_) |
-| 16:30–17:30 | Keynote 2: Mohsen Bayati | [Große Aula](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901226_) |
+| 16:30–17:30 | [Keynote 2: Mohsen Bayati](/invited_speakers/#mohsen-bayati) | [Große Aula](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901226_) |
 | 17:30–18:30 | [Highlighted Poster Session B](/program/poster_session/) | [Speerträger](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001006_) |
 | Evening | Social Happy Hour (Informal drinks & food) |  |
 
@@ -76,5 +94,5 @@ All events take place in the LMU main building at Geschwister-Scholl-Platz 1. Ro
 | 11:00–12:00 | EAAMO Bridges Working Groups Presentation | [A125](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001215_) |
 | 12:00–13:30 | Lunch sponsored by [Protocol Labs](https://pl.xyz/) + [Work-in-Progress posters](/program/work_in_progress_poster_session/) (<50) | [Senatssaal](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901239_) / [Speerträger](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001006_) |
 | 13:30–14:45 | [Session 7](/program/paper_session/) | [A125](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001215_) |
-| 14:45–15:30 | Fireside chat moderated by Miri Zilka | [A125](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001215_) |
+| 14:45–15:30 | Fireside Chat with Abeba Birhane (moderated by Miri Zilka) | [A125](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001215_) |
 | 15:30–16:00 | Awards and closing | [A125](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001215_) |
