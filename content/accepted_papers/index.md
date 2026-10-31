@@ -22,22 +22,22 @@ ACM EAAMO'26 received a large number of submissions, of which **70** were accept
 *Calvin Isley, Johann Demetrio Gaebler, Sharad Goel*
 
 #### Balancing welfare and distributional goals in school choice
-*Irene Lo, Ivan-Aleksandar Mavrov, Justin Hadad*
+*Justin Hadad, Irene Lo, Ivan-Aleksandar Mavrov*
 
 #### Batch-Adaptive Causal Annotations: A Case Study for Street Outreach in Homelessness Services
-*Angela Zhou, Ezinne Nwankwo, Lauri Goldkind*
+*Ezinne Nwankwo, Lauri Goldkind, Angela Zhou*
 
 #### Bridging Offline and online Spaces: A Participatory Framework for Detecting Sexual Exploitation
-*Anjali Mazumder, Harry Bowles, Yesim Kakalic, Jat Singh, Sarada Mahesh*
+*Harry Bowles, Sarada Mahesh, Yesim Kakalic, Jat Singh, Anjali Mazumder*
 
 #### Causal Feature Learning in the Social Sciences
 *Alexander Tolbert, Jingzhou Huang, Jiuyao Lu*
 
 #### Data Exports Unpacked: A User Study on Visualizing Exports under Article 20 GDPR
-*Emmanuel Syrmoudis, Jannis Bittlmayer, Maximilian Josef Frank, Jens Grossklags*
+*Emmanuel Syrmoudis, Jannis Bittlmayer, Maximilian J. Frank, Jens Grossklags*
 
 #### Educational Sycophancy in Multi-Turn Student Interactions with Large Language Models
-*Aleksandra Korolova, Grace Liu*
+*Grace Liu, Aleksandra Korolova*
 
 #### Equity vs. Efficiency in Service Systems with Differentiated Demand
 *Hamid Arzani, Hossein Abouee Mehrizi, Ming Hu*
@@ -49,31 +49,31 @@ ACM EAAMO'26 received a large number of submissions, of which **70** were accept
 *Benjamin Cookson, Nisarg Shah*
 
 #### Fairness by Design: Machine Learning and Interpretable Mortgage Lending
-*Ali Kakhbod, Sebastian Bell, Abdolreza Nazemi, Nancy E. Wallace*
+*Sebastian Bell, Ali Kakhbod, Abdolreza Nazemi, Richard Stanton, Nancy Wallace*
 
 #### Frugal Medical AI as an Equity Imperative: Rethinking Algorithm Design for Resource-Constrained Healthcare
-*Azmine Toushik Wasi, Mahfuz Ahmed Anik, Md Manjurul Ahsan, Mohsin Mahmud Topu*
+*Azmine Toushik Wasi, Mohsin Mahmud Topu, Mahfuz Ahmed Anik, Md Manjurul Ahsan*
 
 #### How to Stop Playing Whack-a-Mole: Mapping the Ecosystem of Technologies Facilitating AI-Generated Non-Consensual Intimate Images
 *Michelle L. Ding, Harini Suresh, Suresh Venkatasubramanian*
 
 #### Human Resource Management and AI: Building A Collaborative Contextual Transparency Database
-*Ellen Simpson, Mona Sloane, Ryan Ermovick*
+*Ellen Simpson, Ryan Ermovick, Mona Sloane*
 
 #### L2-Bench: An Evaluation Benchmark for Measuring LLM Capabilities in Second Language Education
-*Ben Knight, Danielle Carvalho, Isaac J Pattis, James Edgell, Martin Ku, Wm. Matthew Kennedy*
+*James Edgell, Wm. Matthew Kennedy, Ben Knight, Danielle Carvalho, Martin Ku, Isaac J Pattis*
 
 #### Measuring the Impact of Urban Cycling Infrastructure with Large Scale E-Bike GPS Data
-*Emma Pierson, Gabriel Agostini, Nikhil Garg*
+*Gabriel Agostini, Nikhil Garg, Emma Pierson*
 
 #### Minority Collective Action for User-Side Fairness
-*Alexandru Tifrea, Amartya Sanyal, Omri Ben-Dov, Samira Samadi*
+*Omri Ben-Dov, Samira Samadi, Amartya Sanyal, Alexandru Tifrea*
 
 #### Mitigating Label Bias with Interpretable Rubric Embeddings
 *Calvin Isley, Johann Demetrio Gaebler, Sharad Goel*
 
 #### Navigating Divides: The Effects of Segregation and Inequality on Door-to-Door Tenant Outreach
-*Alex DiChristofano, Patrick J. Fowler, Sanmay Das*
+*Alex DiChristofano, Sanmay Das, Patrick J. Fowler*
 
 #### Pareto-Efficient Multi-Buyer Mechanisms: Characterization, Fairness and Welfare
 *Moshe Babaioff, Sijin Chen, Zhaohua Chen, Yiding Feng*
@@ -82,25 +82,25 @@ ACM EAAMO'26 received a large number of submissions, of which **70** were accept
 *Cory Margarucci, Amélie Marian*
 
 #### Scaling EV Access Through Responsible Enforcement in Asset-Backed Lending
-*Leann Thayaparan, Neha Sharma, Vikas Deep*
+*Neha Sharma, Leann Thayaparan, Vikas Deep*
 
 #### Screening for Usage
 *Justin Hadad, Kyle Woodward*
 
 #### Search and Matching for Adoption from Foster Care
-*Ludwig Dierks, M. Utku Unver, Sven Seuken, Nils Olberg, Vincent W. Slaugh*
+*Ludwig Dierks, Nils Ohlberg, Sven Seuken, Vincent Slaugh, M. Utku Unver*
 
 #### Stochastic wage suppression on gig platforms and how to organize against it
 *Ana-Andreea Stoica, Celestine Mendler-Dünner, Moritz Hardt*
 
 #### Two-Sided Prioritized Ranking: A Coherency-Preserving Design for Marketplace Experiments
-*Mahyar Habibi, Negar Ziaeian Ghasemzadeh, Zahra Khanalizadeh*
+*Mahyar Habibi, Zahra Khanalizadeh, Negar Ziaeian Ghasemzadeh*
 
 #### Verifying Alignment Constraints Under Finite-Sample Uncertainty with Inferred Data
-*Blossom Metevier, Bohdan Turbal, Max Springer*
+*Blossom Metevier, Max Springer, Bohdan Turbal*
 
 #### When Family Incentives Meet Caseworker Scarcity: Improving Adoption Outcomes for Children with Disabilities
-*Ludwig Dierks, M. Utku Unver, Vincent Slaugh*
+*Ludwig Dierks, Vincent Slaugh, M. Utku Unver*
 
 #### When Redrawing Lines Isn't Enough: Algorithmic Redistricting and Emergent Segregation in an Urban School-Choice Network
 *Zixuan Zhou*
@@ -109,68 +109,68 @@ ACM EAAMO'26 received a large number of submissions, of which **70** were accept
 *Jianing Fan, Yue Yao*
 
 #### Why Students Reject AI for Human Counselors in College Applications: A Field Experiment
-*Faidra Monachou, Hemanshu Das, Sofoklis Goulas*
+*Hemanshu Das, Sofoklis Goulas, Faidra Monachou*
 
 #### With a Little Help From My Friends: Collective Manipulation in Risk-Controlling Recommender Systems
-*Bruno Lepri, Cristian Consonni, Emilia Gomez, Erasmo Purificato, Giovanni De Toni*
+*Giovanni De Toni, Cristian Consonni, Erasmo Purificato, Emilia Gomez, Bruno Lepri*
 
 - - -
 
 ## Poster Presentations
 
 #### AISPA: System Prompt Auditing for Large Language Model Applications
-*Alex Pentland, Baolong Bi, Chengxuan Qian, Dazza Greenwood, Dingcheng Wang, Erik Brynjolfsson, Haoqian Zhang, Jiaxin Liu, Jiaxin Pei, Juncheng Wu, Rishi Bommasani, Robert Mahari, Samuele Marro, Shenzhe Zhu, Shu Yang, Sophia Kazinnik, Tianwei Wang, Tobin South, Xiangning Lin, Yipeng Zhao, Yuan Si, Zexue He, Zhenlong Yuan, Zhenyu Zhang, Ziheng Zhang, Andreas Haupt*
+*Xiangning Lin, Shenzhe Zhu, Shu Yang, Zhenyu Zhang, Haoqian Zhang, Yipeng Zhao, Chengxuan Qian, Tianwei Wang, Ziheng Zhang, Zhenlong Yuan, Dingcheng Wang, Juncheng Wu, Yuan Si, Jiaxin Liu, Baolong Bi, Robert Mahari, Tobin South, Dazza Greenwood, Zexue He, Rishi Bommasani, Sophia Kazinnik, Andreas Haupt, Samuele Marro, Erik Brynjolfsson, Alex Pentland, Jiaxin Pei*
 
 #### An Accounting Identity for Algorithmic Fairness
 *Hadi Elzayn, Jacob Goldin*
 
 #### Audited Auctions: Reducing Harms in Advertising
-*Francisco Javier Marmolejo-Cossío, Marshall Van Alstyne, Tejovan Janaka Russell Parker, Gabriel McDonnell Maayan*
+*Tejovan Janaka Russell Parker, Gabe McDonnell-Maayan, Francisco Javier Marmolejo-Cossío, Marshall Van Alstyne*
 
 #### Building Equitable Research Ecosystems with Indigenous Communities in the Global South: Lessons from the Summer of Science Program
-*Francisco Javier Marmolejo-Cossío, Michelle González Amador, Ruben Martinez-Cardenas, Tilsa Ore Monago, Rosalba Medina Rivera, Imelda May Flores*
+*Imelda Flores Vazquez, Michelle González Amador, Francisco Javier Marmolejo-Cossío, Ruben Martinez-Cardenas, Rosalba Medina Rivera, Tilsa Ore Monago*
 
 #### Can Price Discrimination be Progressive?
-*Max Biggs, Michael L Hamilton, Titing Cui, Enfeng Xing*
+*Max Biggs, Titing Cui, Michael L Hamilton, Enfeng Xing*
 
 #### Decision-Time Administrative Reason-Giving for U.S. Municipal AI: The Urban Reasonableness Layer
 *Rashid Mushkani*
 
 #### Designing AI from the Margins: The TAIME Framework for Advancing Meaningful Engagement in Participatory AI with Affected Communities
-*Anjali Mazumder, Emma Marlene Kallina, Yesim Kakalic, Zoe Kahn, Jat Singh*
+*Yesim Kakalic, Emma Marlene Kallina, Zoe Kahn, Jat Singh, Anjali Mazumder*
 
 #### Detecting Decision and Reasoning Shifts in LLM Policy Judgments via Activation Steering
-*Sandra Zelen, Viveka Saraiya*
+*Viveka Saraiya, Sandra Zelen*
 
 #### Distinguishing Biases from Personal Preferences: An Honest Machine Learning Approach
-*Mahyar Habibi, Negar Ziaeian Ghasemzadeh, Zahra Khanalizadeh*
+*Mahyar Habibi, Zahra Khanalizadeh, Negar Ziaeian Ghasemzadeh*
 
 #### Do Fair Models Reason Fairly? Counterfactual Explanation Consistency for Procedural Fairness in Credit Decisions
 *Gideon Popoola, John Sheppard*
 
 #### Due Process on Hold: A Queueing Framework for Improving Access in SNAP
-*Andrew Daw, Angela Zhou, Chloe Pache*
+*Andrew Daw, Chloe Pache, Angela Zhou*
 
 #### Fair Allocation with Initial Utilities
-*Luca Kreisel, Niclas Boehmer*
+*Niclas Boehmer, Luca Kreisel*
 
 #### Fairness Beyond Populations: Subgroup-Specific Causal Diagnosis for Algorithmic Decision Auditing
-*Klaus Mueller, Yanming Zhang*
+*Yanming Zhang, Klaus Mueller*
 
 #### Fairness Detectability: Evaluating Explanations on the Recovery of Fairness-Relevant Causal Effects
-*Anna-Alina Bondarets, Joshua R. Loftus, Kateryna Koval, Sakina Hansen*
+*Sakina Hansen, Kateryna Koval, Anna-Alina Bondarets, Joshua R. Loftus*
 
 #### Fairness Is Not Universal: Towards Contextualized and Autonomous Fairness in Federated Learning
 *Yi Zhou, Naman Goel*
 
 #### Fairness vs Performance: Characterizing the Pareto Frontier of Algorithmic Decision Systems
-*Christoph Heitz, Mieke Wilms*
+*Mieke Wilms, Christoph Heitz*
 
 #### Fixed Points and Stochastic Meritocracies: A Long-Term Perspective
-*Diptangshu Sen, Gaurab Pokharel, Juba Ziani, Sanmay Das*
+*Gaurab Pokharel, Diptangshu Sen, Sanmay Das, Juba Ziani*
 
 #### From Findability to Accountability: Metadataveillance and the Case for Justice-Informed Data Catalogues
-*Anjali Mazumder, Harry Bowles, Jat Singh*
+*Harry Bowles, Jat Singh, Anjali Mazumder*
 
 #### How Supply Chain Dependencies Complicate Bias Measurement and Accountability Attribution in AI Hiring Applications
 *Gauri Sharma, Maryam Molamohammadi*
@@ -191,38 +191,38 @@ ACM EAAMO'26 received a large number of submissions, of which **70** were accept
 *Woojin Jung, Andrew H. Kim, Arunesh Sinha, Quentin Stoeffler, Saeed Ghadimi, Vatsal Shah, Krittika Garg, Tawfiq Ammari*
 
 #### Optimizing for Fairness in Generalized Kidney Exchange: Theory and Computations
-*Arin Khare, Claire S. Chang, David Shmoys*
+*Claire S. Chang, Arin Khare, David Shmoys*
 
 #### Quantifying Diversity of Educational Evaluation Using Relative Student Performance
 *Brian Brubach, Karen Xiao*
 
 #### Reassessing the Role of Standardized Tests in University Admissions
-*Calvin Isley, Johann Demetrio Gaebler, Sharad Goel, Christopher Avery*
+*Johann Demetrio Gaebler, Calvin Isley, Christopher Avery, Sharad Goel*
 
 #### Strategic Opacity as Regulatory Evasion: Accountability under Manipulable Observability
-*Brittany I. Davidson, Florian A.D. Burnat*
+*Florian A.D. Burnat, Brittany I. Davidson*
 
 #### Synthetic Speech Should Not Count as ASR Fairness Evidence Without Worst-Group Validation
-*Jay L. Cunningham, Shreyas Sridhar Vasisht*
+*Shreyas Sridhar Vasisht, Jay L. Cunningham*
 
 #### The Costs of Pretending That There Are Data-Generating Probability Distributions in the Social World
 *Benedikt Höltgen, Robert Williamson*
 
 #### The Forest from the Trees: Lessons on Public-Sector Deployment from an Academic Collaboration with NYC Department of Parks and Recreation
-*Erica Chiang, Gabriel Agostini, Nikhil Garg, Zhi Liu, Katelyn Liu, Anum Ahmad, Tyler Gibson, Uma Bhandaram*
+*Erica Chiang, Katelyn Liu, Anum Ahmad, Zhi Liu, Gabriel Agostini, Tyler Gibson, Uma Bhandaram, Nikhil Garg*
 
 #### Tools and Methods for the Inclusive Co-Design of AI Technologies: A Systematic Scoping Review
-*Courtney Ford, Emma Marlene Kallina, Kayley Moylan, Kevin Doherty, María Paula Silva, Marie E. Ward, Rob Brennan, Sajjad Karimian, Uzoma Ibekwe*
+*María Paula Silva, Emma Marlene Kallina, Uzoma Ibekwe, Kayley Moylan, Sajjad Karimian, Courtney Ford, Marie E. Ward, Rob Brennan, Kevin Doherty*
 
 #### Toward Permanence: Sustainability Contract Design for Smallholder Agriculture
-*Yanchong Karen Zheng, Yuan Shi, Joann de Zegher*
+*Yuan Shi, Joann de Zegher, Yanchong Karen Zheng*
 
 #### “Verifemmication”: An evaluative framework for gender-sensitive risk assessment under the AI Act standardisation process
-*Anastasia Karagianni, Carlos Sáez*
+*Anastasia Karagianni, Carlos Sáez Silvestre*
 
 #### WeDesign+: Deliberative Visual AI for Public Space Planning
-*Hugo Berard, Shin Koseki, Rashid Mushkani*
+*Rashid Mushkani, Hugo Berard, Shin Koseki*
 
 #### "Whose Voice Is It, Anyway?" Towards a Feminist Critical Disability Studies Approach to ‘Making People Up’ with GenAI
-*Aisha Sobey, Isabel Koval*
+*Iz Koval, Aisha Sobey*
 

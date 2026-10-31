@@ -34,10 +34,10 @@ Paper sessions run across all three days of ACM EAAMO'26. Each talk presents an 
 *Calvin Isley, Johann Demetrio Gaebler, Sharad Goel*
 
 #### Why Students Reject AI for Human Counselors in College Applications: A Field Experiment
-*Faidra Monachou, Hemanshu Das, Sofoklis Goulas*
+*Hemanshu Das, Sofoklis Goulas, Faidra Monachou*
 
 #### L2-Bench: An Evaluation Benchmark for Measuring LLM Capabilities in Second Language Education
-*Ben Knight, Danielle Carvalho, Isaac J Pattis, James Edgell, Martin Ku, Wm. Matthew Kennedy*
+*James Edgell, Wm. Matthew Kennedy, Ben Knight, Danielle Carvalho, Martin Ku, Isaac J Pattis*
 
 - - -
 
@@ -46,7 +46,7 @@ Paper sessions run across all three days of ACM EAAMO'26. Each talk presents an 
 *Thursday, November 5, 15:15–16:30*
 
 #### Balancing welfare and distributional goals in school choice
-*Irene Lo, Ivan-Aleksandar Mavrov, Justin Hadad*
+*Justin Hadad, Irene Lo, Ivan-Aleksandar Mavrov*
 
 #### Remediation Algorithms for Input Error in Deferred Acceptance School Matchings
 *Cory Margarucci, Amélie Marian*
@@ -55,10 +55,10 @@ Paper sessions run across all three days of ACM EAAMO'26. Each talk presents an 
 *Zixuan Zhou*
 
 #### Search and Matching for Adoption from Foster Care
-*Ludwig Dierks, M. Utku Unver, Sven Seuken, Nils Olberg, Vincent W. Slaugh*
+*Ludwig Dierks, Nils Ohlberg, Sven Seuken, Vincent Slaugh, M. Utku Unver*
 
 #### When Family Incentives Meet Caseworker Scarcity: Improving Adoption Outcomes for Children with Disabilities
-*Ludwig Dierks, M. Utku Unver, Vincent Slaugh*
+*Ludwig Dierks, Vincent Slaugh, M. Utku Unver*
 
 - - -
 
@@ -67,19 +67,19 @@ Paper sessions run across all three days of ACM EAAMO'26. Each talk presents an 
 *Friday, November 6, 9:30–10:45*
 
 #### Batch-Adaptive Causal Annotations: A Case Study for Street Outreach in Homelessness Services
-*Angela Zhou, Ezinne Nwankwo, Lauri Goldkind*
+*Ezinne Nwankwo, Lauri Goldkind, Angela Zhou*
 
 #### Causal Feature Learning in the Social Sciences
 *Alexander Tolbert, Jingzhou Huang, Jiuyao Lu*
 
 #### Verifying Alignment Constraints Under Finite-Sample Uncertainty with Inferred Data
-*Blossom Metevier, Bohdan Turbal, Max Springer*
+*Blossom Metevier, Max Springer, Bohdan Turbal*
 
 #### Mitigating Label Bias with Interpretable Rubric Embeddings
 *Calvin Isley, Johann Demetrio Gaebler, Sharad Goel*
 
 #### Measuring the Impact of Urban Cycling Infrastructure with Large Scale E-Bike GPS Data
-*Emma Pierson, Gabriel Agostini, Nikhil Garg*
+*Gabriel Agostini, Nikhil Garg, Emma Pierson*
 
 - - -
 
@@ -91,13 +91,13 @@ Paper sessions run across all three days of ACM EAAMO'26. Each talk presents an 
 *Ana-Andreea Stoica, Celestine Mendler-Dünner, Moritz Hardt*
 
 #### Minority Collective Action for User-Side Fairness
-*Alexandru Tifrea, Amartya Sanyal, Omri Ben-Dov, Samira Samadi*
+*Omri Ben-Dov, Samira Samadi, Amartya Sanyal, Alexandru Tifrea*
 
 #### With a Little Help From My Friends: Collective Manipulation in Risk-Controlling Recommender Systems
-*Bruno Lepri, Cristian Consonni, Emilia Gomez, Erasmo Purificato, Giovanni De Toni*
+*Giovanni De Toni, Cristian Consonni, Erasmo Purificato, Emilia Gomez, Bruno Lepri*
 
 #### Human Resource Management and AI: Building A Collaborative Contextual Transparency Database
-*Ellen Simpson, Mona Sloane, Ryan Ermovick*
+*Ellen Simpson, Ryan Ermovick, Mona Sloane*
 
 #### Escaping the Nash Trap: Structural Estimation and Alignment of Strategic Reasoning in Large Language Models
 *Jiannan Xu, Yongkang Duan, Jane Yi Jiang, Jiding Zhang*
@@ -127,19 +127,19 @@ Paper sessions run across all three days of ACM EAAMO'26. Each talk presents an 
 *Saturday, November 7, 9:30–10:45*
 
 #### Fairness by Design: Machine Learning and Interpretable Mortgage Lending
-*Ali Kakhbod, Sebastian Bell, Abdolreza Nazemi, Nancy E. Wallace*
+*Sebastian Bell, Ali Kakhbod, Abdolreza Nazemi, Richard Stanton, Nancy Wallace*
 
 #### Scaling EV Access Through Responsible Enforcement in Asset-Backed Lending
-*Leann Thayaparan, Neha Sharma, Vikas Deep*
+*Neha Sharma, Leann Thayaparan, Vikas Deep*
 
 #### Two-Sided Prioritized Ranking: A Coherency-Preserving Design for Marketplace Experiments
-*Mahyar Habibi, Negar Ziaeian Ghasemzadeh, Zahra Khanalizadeh*
+*Mahyar Habibi, Zahra Khanalizadeh, Negar Ziaeian Ghasemzadeh*
 
 #### Navigating Divides: The Effects of Segregation and Inequality on Door-to-Door Tenant Outreach
-*Alex DiChristofano, Patrick J. Fowler, Sanmay Das*
+*Alex DiChristofano, Sanmay Das, Patrick J. Fowler*
 
 #### Frugal Medical AI as an Equity Imperative: Rethinking Algorithm Design for Resource-Constrained Healthcare
-*Azmine Toushik Wasi, Mahfuz Ahmed Anik, Md Manjurul Ahsan, Mohsin Mahmud Topu*
+*Azmine Toushik Wasi, Mohsin Mahmud Topu, Mahfuz Ahmed Anik, Md Manjurul Ahsan*
 
 - - -
 
@@ -151,13 +151,13 @@ Paper sessions run across all three days of ACM EAAMO'26. Each talk presents an 
 *Michelle L. Ding, Harini Suresh, Suresh Venkatasubramanian*
 
 #### Bridging Offline and online Spaces: A Participatory Framework for Detecting Sexual Exploitation
-*Anjali Mazumder, Harry Bowles, Yesim Kakalic, Jat Singh, Sarada Mahesh*
+*Harry Bowles, Sarada Mahesh, Yesim Kakalic, Jat Singh, Anjali Mazumder*
 
 #### Educational Sycophancy in Multi-Turn Student Interactions with Large Language Models
-*Aleksandra Korolova, Grace Liu*
+*Grace Liu, Aleksandra Korolova*
 
 #### Data Exports Unpacked: A User Study on Visualizing Exports under Article 20 GDPR
-*Emmanuel Syrmoudis, Jannis Bittlmayer, Maximilian Josef Frank, Jens Grossklags*
+*Emmanuel Syrmoudis, Jannis Bittlmayer, Maximilian J. Frank, Jens Grossklags*
 
 #### Who Gets Heeded? An Obligation-Level Audit of Responsiveness in EPA Rulemaking
 *Jianing Fan, Yue Yao*
