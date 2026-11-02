@@ -12,7 +12,7 @@ The Work-in-Progress Poster Session presents early-stage, ongoing, or recently c
 
 ## Posters
 
-25 posters are presented in this session, listed by board number.
+27 posters are presented in this session, listed by board number.
 
 #### When is "Valid" Valid? Algorithmic Decisionmaking and Overreach in Public Benefits
 *Angela Zhou*
@@ -113,6 +113,14 @@ Board 24
 #### From Civility Norms to Multi-Agent Alignment: Social Foundations for Pluralistic and Dynamic AI Governance
 *Yuan Zhang*
 Board 25
+
+#### Socio-Ethical Assessment of Linguistic and Cultural Vulnerability Among the Shawi People in University Higher Education
+*Boris Mirko Chávez Cabellos*
+Board to be confirmed
+
+#### From Urban Centers to Rural Areas: The Trade-offs Between Efficiency and Fairness
+*Hamid Arzani*
+Board to be confirmed
 
 - - -
 

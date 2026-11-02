@@ -56,7 +56,7 @@ Mohsen Bayati is the Carl and Marilynn Thoma Professor of Operations, Informatio
 | 10:30–12:00 | [Summer of Science Poster Session](/program/poster_session/) | [Speerträger](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001006_) |
 | 11:00–12:00 | Social Tour: Guided [*White Rose*](https://muenchen.de/en/sights/white-rose-memorial-significance-leaflets-members) (Weiße Rose) tour of the LMU Lichthof and memorial room | [Lichthof](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000000027_) |
 | 12:00–13:00 | Registration and lunch | [Speerträger](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001006_) / [Senatssaal](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901239_) |
-| 13:00–13:30 | Opening | [Große Aula](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901226_) |
+| 13:15–13:30 | Opening | [Große Aula](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901226_) |
 | 13:30–14:45 | [Session 1](/program/paper_session/) (5 talks) | [Große Aula](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901226_) |
 | 14:45–15:15 | Coffee | [Senatssaal](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901239_) |
 | 15:15–16:30 | [Session 2](/program/paper_session/) (5 talks) | [Große Aula](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901226_) |

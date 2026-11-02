@@ -137,7 +137,7 @@ Presented by María Paula Silva
 Presented by Hugo Berard
 
 #### When Fair Models Stop Being Fair, Who Is Supposed to Notice
-Presented by Marcelo Passeti
+Presented by Marcelo Pasetti
 
 - - -
 
