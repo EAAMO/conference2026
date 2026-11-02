@@ -94,5 +94,5 @@ Mohsen Bayati is the Carl and Marilynn Thoma Professor of Operations, Informatio
 | 11:00–12:00 | EAAMO Bridges Working Groups Presentation | [A125](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001215_) |
 | 12:00–13:30 | Lunch sponsored by [Protocol Labs](https://pl.xyz/) + [Work-in-Progress posters](/program/work_in_progress_poster_session/) (<50) | [Senatssaal](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901239_) / [Speerträger](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001006_) |
 | 13:30–14:45 | [Session 7](/program/paper_session/) | [A125](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001215_) |
-| 14:45–15:30 | Fireside Chat with Abeba Birhane (moderated by Miri Zilka) | [A125](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001215_) |
+| 14:45–15:30 | [Fireside chat with Dr Abeba Birhane](/invited_speakers/#abeba-birhane) | [A125](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001215_) |
 | 15:30–16:00 | Awards and closing | [A125](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001215_) |

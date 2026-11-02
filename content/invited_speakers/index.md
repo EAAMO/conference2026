@@ -7,7 +7,7 @@ showTableOfContents: false
 layout: "simple"
 ---
 
-We are excited to announce the **Invited Speakers for ACM EAAMO '26**. Both keynotes take place at the main building of LMU Munich; see the [program at a glance](/program/) for the full schedule.
+We are excited to announce the **Invited Speakers for ACM EAAMO '26**. All sessions take place at the main building of LMU Munich; see the [program at a glance](/program/) for the full schedule.
 
 - - -
 
@@ -36,3 +36,13 @@ We are excited to announce the **Invited Speakers for ACM EAAMO '26**. Both keyn
 *Abstract:* As AI agents capably complete tasks that used to require substantial human expertise, a new challenge emerges: determining when human oversight remains necessary. We begin with a clinical prediction problem where extracting meaningful information from unstructured medical notes requires extensive expert effort. We show how multi-agent language models can automate this process while achieving comparable predictive performance at a fraction of the human effort. We then turn to a broader question: when should autonomous agents act independently, and when should they seek human intervention? Building on game-theoretic and statistical frameworks, we explore how agents and overseers can coordinate their decisions. We also discuss how effective oversight can be maintained as AI capabilities continue to advance.
 
 *Biography:* Mohsen Bayati is the Carl and Marilynn Thoma Professor of Operations, Information and Technology at the [Stanford Graduate School of Business](https://web.stanford.edu/~bayati/bio.html). He works on the mathematics of deploying AI in high-stakes settings: alignment and human oversight, experiment design under interference, and sequential decision-making. His research has appeared in *Nature Medicine*, *PNAS*, *Management Science*, *Operations Research* and *NeurIPS*, and has been recognized with the INFORMS Pierskalla and Applied Probability Society best paper awards and an NSF CAREER award.
+
+- - -
+
+## Abeba Birhane
+
+{{< keynote_image src="abeba_birhane.jpg" name="Dr Abeba Birhane" affiliation="Trinity College Dublin, Ireland" link="https://abebabirhane.com/" >}}
+
+*Fireside chat: Saturday, November 7, 14:45–15:30, moderated by Miri Zilka*
+
+*Biography:* Dr Abeba Birhane founded and leads the [TCD AI Accountability Lab (AIAL)](https://aial.ie/). She is an assistant professor of AI at the School of Computer Science and Statistics in Trinity College Dublin. Dr Birhane researches AI accountability with a particular focus on audits of AI systems — work for which she was featured in [*Wired UK*](https://www.wired.com/story/abeba-birhane-ai-datasets/) and *TIME* on the [TIME100 Most Influential People in AI](https://time.com/6311323/how-we-chose-time100-ai/) list in 2023. Dr Birhane also served on the [United Nations Secretary-General's AI Advisory Body](https://www.un.org/digital-emerging-technologies/ai-advisory-body) and currently serves at the AI Advisory Council in Ireland.
