@@ -16,7 +16,49 @@ The program is preliminary and subject to change.
 
 *Thursday, November 5, 10:30-12:00, [Speerträger](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001006_)*
 
-The list of posters for this session will be published here closer to the conference.
+Posters from the Summer of Science programme are presented in this session. Titles link to each poster as a PDF, published with the authors' permission.
+
+#### [Affordable Biosensing Technologies: Laser-Induced Graphene Platforms for Accessible Community Healthcare](posters/Affordable_Biosensing_Technologies_Laser_Induced_Graphene_Platforms_for_Accessible_Communi_Lidia_Lizbeth_Hernandez_Cubas.pdf)
+*Lidia Lizbeth Hernández Cubas* — Universidad Autónoma de Sinaloa
+
+#### [Características de las iniciativas de revitalización de lenguas indígenas en redes sociales podrían contribuir a despertar el interés de jóvenes por aprender una lengua indígena como el Tének](posters/Caracteristicas_de_las_iniciativas_de_revitalizacion_de_lenguas_indigenas_en_redes_sociale_Nancy_Santiago_Santos.pdf)
+*Nancy Santiago Santos* — UASLP
+
+#### [Diálogos participativos para orientar el diseño de una guía de mediación lectora situada](posters/Dialogos_participativos_para_orientar_el_diseno_de_una_guia_de_mediacion_lectora_situada_Maria_Elva_Tellez_Rivera.pdf)
+*Maria Elva Téllez Rivera* — UASLP
+
+#### [Effect of a Culturally and Linguistically Tailored Nursing Intervention on Condom Use Self-Efficacy Among Indigenous Adolescents](posters/Effect_of_a_Culturally_and_Linguistically_Tailored_Nursing_Intervention_on_Condom_Use_Self_Martha_Martinez_Hernandez.pdf)
+*Martha Martínez Hernández* — Universidad Intercultural del Estado de Puebla
+
+#### [Factores socioeconómicos que inciden en la continuidad de la producción artesanal de carrizo en comunidades indígenas de la Sierra Norte de Puebla: estudio comparativo entre Ixtolco de Morelos, Cuautempan, e Iczotitla, Naupan](posters/Factores_socioeconomicos_que_inciden_en_la_continuidad_de_la_produccion_artesanal_de_carri_Marilu_Lopez_Nava.pdf)
+*Marilú López Nava* — Universidad Intercultural del estado de Puebla
+
+#### [Fortalecimiento de los servicios de salud y del desarrollo regional mediante un modelo comunitario de gestión de tecnología médica en la Meseta Purépecha](posters/Fortalecimiento_de_los_servicios_de_salud_y_del_desarrollo_regional_mediante_un_modelo_com_Martha_Paola_Vazquez_Espino.pdf)
+*Martha Paola Vázquez Espino* — Instituto Tecnológico Superior P'urhépecha
+
+#### [Guardianas del Barro en Cuatzontitla: Barreras y Oportunidades de Comercialización en la Alfarería Tradicional Náhuatl](posters/Guardianas_del_Barro_en_Cuatzontitla_Barreras_y_Oportunidades_de_Comercializacion_en_la_Al_Angelica_Velazquez_Hernandez.pdf)
+*Angélica Velázquez Hernández* — Universidad Intercultural de San Luis Potosi (UICSLP) Campus Tamazunchale
+
+#### [Persistence Beyond Productivity: A Process-Tracing Analysis of the Butterfly Net Fishery in Lake Pátzcuaro, Mexico](posters/Persistence_Beyond_Productivity_A_Process_Tracing_Analysis_of_the_Butterfly_Net_Fishery_in_Janeth_Piza_Morales.pdf)
+*Janeth Piza Morales* — Instituto de Ciencia, Tecnología e Innovación
+
+#### [Voz, agencia y ayuda mutua: Un análisis sobre la participación de las mujeres indígenas en la economía social y solidaria en México](posters/Voz_agencia_y_ayuda_mutua_Un_analisis_sobre_la_participacion_de_las_mujeres_indigenas_en_l_Viridiana_Regino_Castillo.pdf)
+*Viridiana Regino Castillo* — Colegio de Postgraduados
+
+#### [Vulnerabilidad Estructural y Trayectoria Académica de estudiantes indígenas migrantes en la Universidad Autónoma de Sinaloa](posters/Vulnerabilidad_Estructural_y_Trayectoria_Academica_de_estudiantes_indigenas_migrantes_en_l_Matilde_Miguel_Dominguez.pdf)
+*Matilde Miguel Dominguez* — Universidad Autónoma de Sinaloa
+
+#### [Water consumption and sustainability of avocado cultivation in the municipality of Patzcuaro, Michoacan, Mexico](posters/Water_consumption_and_sustainability_of_avocado_cultivation_in_the_municipality_of_Patzcua_Diana_Janeth_Fuerte_Velazquez.pdf)
+*Diana Janeth Fuerte Velázquez* — Universidad Michoacana de San Nicolás de Hidalgo
+
+#### [What place can Purépecha occupy in young people’s lives? An exploratory study of domains of use, perceived barriers and youth perspectives at Telebachillerato 140 in Michoacán](posters/What_place_can_Purepecha_occupy_in_young_people_s_lives_An_exploratory_study_of_domains_of_Rosa_Maria_Leonardo_Apolinar.pdf)
+*Rosa María Leonardo Apolinar* — Instituto Michoacano de Ciencias de la Educación
+
+#### [Development of a System for the Identification of Lung Diseases Based on Metabolomic Methods in Vulnerable Communities in San Luis Potosí, Mexico](posters/Development_of_a_System_for_the_Identification_of_Lung_Diseases_Based_on_Metabolomic_Method_Berenice_Balderas_Segura.pdf)
+*Berenice Balderas Segura* — Universidaed Autónoma de San Luis Potosí
+
+#### [La función poética del lenguaje en la lengua awajún de los padres de familia de la Institución Educativa N.º 16320 de la Comunidad Nativa Tutumberos](posters/La_funcion_poetica_del_lenguaje_en_la_lengua_awajun_de_los_padres_de_familia_de_la_Institu_fredy_tawam_cumbia.pdf)
+*Fredy Tawam Cumbia* — universidad nacional intercultural de la amazonia
 
 - - -
 
