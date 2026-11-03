@@ -65,7 +65,7 @@ Dr Abeba Birhane founded and leads the TCD AI Accountability Lab and is an assis
 
 | Time | Item | Room |
 |------|------|------|
-| 10:00–10:30 | Breakfast | [Senatssaal](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901239_) |
+| 10:00–10:30 | Registration and breakfast | [Speerträger](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001006_) / [Senatssaal](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901239_) |
 | 10:30–12:00 | [Summer of Science Poster Session](/program/poster_session/) | [Speerträger](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001006_) |
 | 11:00–12:00 | Social Tour: Guided [*White Rose*](https://muenchen.de/en/sights/white-rose-memorial-significance-leaflets-members) (Weiße Rose) tour of the LMU Lichthof and memorial room | [Lichthof](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000000027_) |
 | 12:00–13:00 | Registration and lunch | [Speerträger](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001006_) / [Senatssaal](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901239_) |

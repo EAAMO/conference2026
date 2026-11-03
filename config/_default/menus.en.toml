@@ -44,7 +44,7 @@
    identifier = 'conference_program'
 
 [[main]]
-   name = "Program at a Glance"
+   name = "Conference Program"
    pageRef = "program"
    weight = 31
    identifier = 'program'
