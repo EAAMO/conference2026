@@ -25,7 +25,7 @@ All events take place in the LMU main building at Geschwister-Scholl-Platz 1. Ro
 | **Registration and info point** | [Speerträger (Spear Bearer)](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001006_) | [Speerträger (Spear Bearer)](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001006_) | [Speerträger (Spear Bearer)](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001006_) |
 | **Talks, sessions, keynotes, panel** | [Große Aula (Great Hall)](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901226_) | [Große Aula (Great Hall)](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901226_) | [Room A125](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001215_) |
 | **Breakfast, coffee breaks and lunch** | [Senatssaal (Senate Hall)](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901239_) | [Senatssaal (Senate Hall)](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901239_) | [Senatssaal (Senate Hall)](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901239_) |
-| **Poster sessions** | [Speerträger (Spear Bearer)](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001006_)<br>Summer of Science Poster Session | [Speerträger (Spear Bearer)](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001006_)<br>Highlighted Posters A & B | [Speerträger (Spear Bearer)](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001006_)<br>Work-in-Progress Posters |
+| **Poster sessions** | [Speerträger (Spear Bearer)](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001006_)<br>Summer of Science Poster Session | [Speerträger (Spear Bearer)](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001006_)<br>Highlighted Posters | [Speerträger (Spear Bearer)](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001006_)<br>Work-in-Progress Posters |
 | **Conference Reception** | [Lichthof (Atrium)](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000000027_) | – | – |
 
 - - -
@@ -74,12 +74,11 @@ Mohsen Bayati is the Carl and Marilynn Thoma Professor of Operations, Informatio
 | 9:30–10:45 | [Session 3](/program/paper_session/) (5 talks) | [Große Aula](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901226_) |
 | 10:45–11:00 | Coffee | [Senatssaal](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901239_) |
 | 11:00–12:15 | [Session 4](/program/paper_session/) (5 talks) | [Große Aula](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901226_) |
-| 12:15–14:00 | Lunch sponsored by [Protocol Labs](https://pl.xyz/) + [Highlighted Poster Session A](/program/poster_session/) | [Senatssaal](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901239_) / [Speerträger](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001006_) |
-| 14:00–15:00 | Causal Inference for Social Good: Panel Discussion with Niki Kilbertus and Angela Zhou (moderated by Hannah Li) | [Große Aula](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901226_) |
+| 12:15–14:00 | Lunch + [Highlighted Poster Session](/program/poster_session/) | [Senatssaal](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901239_) / [Speerträger](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001006_) |
+| 14:00–15:00 | [Causal Inference for Social Good: Panel Discussion](/invited_speakers/#causal-inference-panel) with Niki Kilbertus and Angela Zhou (moderated by Hannah Li) | [Große Aula](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901226_) |
 | 15:00–16:00 | [Session 5](/program/paper_session/) (4 talks) | [Große Aula](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901226_) |
 | 16:00–16:30 | Coffee Break + Group Picture | [Senatssaal](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901239_) |
 | 16:30–17:30 | [Keynote 2: Mohsen Bayati](/invited_speakers/#mohsen-bayati) | [Große Aula](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901226_) |
-| 17:30–18:30 | [Highlighted Poster Session B](/program/poster_session/) | [Speerträger](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001006_) |
 | Evening | Social Happy Hour (Informal drinks & food) |  |
 
 - - -
@@ -92,7 +91,7 @@ Mohsen Bayati is the Carl and Marilynn Thoma Professor of Operations, Informatio
 | 9:30–10:45 | [Session 6](/program/paper_session/) (5 talks) | [A125](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001215_) |
 | 10:45–11:00 | Coffee | [Senatssaal](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901239_) |
 | 11:00–12:00 | EAAMO Bridges Working Groups Presentation | [A125](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001215_) |
-| 12:00–13:30 | Lunch + [Work-in-Progress posters](/program/work_in_progress_poster_session/) | [Senatssaal](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901239_) / [Speerträger](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001006_) |
+| 12:00–13:30 | Lunch sponsored by [Protocol Labs](https://pl.xyz/) + [Work-in-Progress posters](/program/work_in_progress_poster_session/) | [Senatssaal](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901239_) / [Speerträger](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001006_) |
 | 13:30–14:45 | [Session 7](/program/paper_session/) | [A125](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001215_) |
 | 14:45–15:30 | [Fireside chat with Dr Abeba Birhane](/invited_speakers/#abeba-birhane) | [A125](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001215_) |
 | 15:30–16:00 | Awards and closing | [A125](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001215_) |

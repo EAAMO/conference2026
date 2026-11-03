@@ -64,9 +64,7 @@ Posters from the Summer of Science programme are presented in this session. Titl
 
 ## Highlighted Posters
 
-*Friday, November 6, [Speerträger](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001006_) — 18 posters*
-
-Highlighted posters are presented in two sessions on Friday: Session A from 12:15 to 14:00 (with lunch) and Session B from 17:30 to 18:30.
+*Friday, November 6, 12:15–14:00 (with lunch), [Speerträger](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001006_) — 18 posters*
 
 #### "Whose Voice Is It, Anyway?" Towards a Feminist Critical Disability Studies Approach to ‘Making People Up’ with GenAI
 *Iz Koval, Aisha Sobey*

@@ -46,3 +46,23 @@ We are excited to announce the **Invited Speakers for ACM EAAMO '26**. All sessi
 *Fireside chat: Saturday, November 7, 14:45–15:30, moderated by Miri Zilka*
 
 *Biography:* Dr Abeba Birhane founded and leads the [TCD AI Accountability Lab (AIAL)](https://aial.ie/). She is an assistant professor of AI at the School of Computer Science and Statistics in Trinity College Dublin. Dr Birhane researches AI accountability with a particular focus on audits of AI systems — work for which she was featured in [*Wired UK*](https://www.wired.com/story/abeba-birhane-ai-datasets/) and *TIME* on the [TIME100 Most Influential People in AI](https://time.com/6311323/how-we-chose-time100-ai/) list in 2023. Dr Birhane also served on the [United Nations Secretary-General's AI Advisory Body](https://www.un.org/digital-emerging-technologies/ai-advisory-body) and currently serves at the AI Advisory Council in Ireland.
+
+- - -
+
+## Causal Inference Panel
+
+*Panel discussion: Friday, November 6, 14:00–15:00, moderated by Hannah Li*
+
+The panel **Causal Inference for Social Good** brings together two researchers working on causal methods and their use in consequential decisions.
+
+### Angela Zhou
+
+{{< keynote_image src="angela_zhou.jpg" name="Angela Zhou" affiliation="USC Marshall School of Business, USA" link="https://angelazhou.github.io/" >}}
+
+*Biography:* Angela Zhou is an assistant professor at USC Marshall Data Sciences and Operations, in the Operations group, and in the Department of Computer Science (by courtesy). She works on building theoretically solid and practically useful methodology across causal and sequential decisions. Her most recent work in AI and society focuses on social services provision and AI monitoring and evaluation.
+
+### Niki Kilbertus
+
+{{< keynote_image src="niki_kilbertus.jpg" name="Niki Kilbertus" affiliation="Technical University of Munich and Helmholtz Munich, Germany" link="https://sites.google.com/view/nikikilbertus" >}}
+
+*Biography:* Niki Kilbertus holds a joint appointment at the Technical University of Munich and Helmholtz Munich. His group is interested broadly in AI for science including mechanistic machine learning, causality, and dynamical systems modeling. Niki's background is in mathematics and physics and he obtained a PhD in Machine Learning in a joint program of the University of Cambridge and the Max Planck Institute for Intelligent Systems, during which he interned at Google, Deepmind, and Amazon.
