@@ -1,5 +1,5 @@
 ---
-title: "Program"
+title: "Conference Program"
 date: 2026-10-08
 draft: false
 showTableOfContents: true
@@ -30,7 +30,7 @@ All events take place in the LMU main building at Geschwister-Scholl-Platz 1. Ro
 
 - - -
 
-## Keynote Speakers
+## Invited Speakers
 
 Full biographies are on the [invited speakers](/invited_speakers/) page.
 
@@ -45,6 +45,19 @@ Moritz Hardt is a director at the Max Planck Institute for Intelligent Systems a
 *Friday, November 6, 16:30–17:30, [Große Aula](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901226_)*
 
 Mohsen Bayati is the Carl and Marilynn Thoma Professor of Operations, Information and Technology at the Stanford Graduate School of Business. As AI agents take on tasks that used to require substantial human expertise, a new challenge emerges: determining when human oversight remains necessary. Starting from a clinical prediction problem, the talk asks when autonomous agents should act independently and when they should seek human intervention, and how effective oversight can be maintained as AI capabilities advance. [Read the full abstract and biography](/invited_speakers/#mohsen-bayati).
+
+
+### Causal Inference for Social Good — *Panel Discussion*
+
+*Friday, November 6, 14:00–15:00, [Große Aula](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=001901226_), moderated by Hannah Li*
+
+**Angela Zhou** is an assistant professor at USC Marshall Data Sciences and Operations and, by courtesy, in the Department of Computer Science; her recent work in AI and society focuses on social services provision and AI monitoring and evaluation. **Niki Kilbertus** holds a joint appointment at the Technical University of Munich and Helmholtz Munich, where his group works on AI for science including mechanistic machine learning, causality, and dynamical systems modeling. [Read the full biographies](/invited_speakers/#causal-inference-panel).
+
+### Abeba Birhane — *Fireside Chat*
+
+*Saturday, November 7, 14:45–15:30, [A125](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001215_), moderated by Miri Zilka*
+
+Dr Abeba Birhane founded and leads the TCD AI Accountability Lab and is an assistant professor of AI at Trinity College Dublin. She researches AI accountability with a particular focus on audits of AI systems, work for which she was named to the TIME100 Most Influential People in AI list in 2023. She also served on the United Nations Secretary-General's AI Advisory Body. [Read the full biography](/invited_speakers/#abeba-birhane).
 
 - - -
 
