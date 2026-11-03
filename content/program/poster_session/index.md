@@ -21,8 +21,17 @@ Posters from the Summer of Science programme are presented in this session. Titl
 #### [Affordable Biosensing Technologies: Laser-Induced Graphene Platforms for Accessible Community Healthcare](posters/Affordable_Biosensing_Technologies_Laser_Induced_Graphene_Platforms_for_Accessible_Communi_Lidia_Lizbeth_Hernandez_Cubas.pdf)
 *Lidia Lizbeth Hernández Cubas* — Universidad Autónoma de Sinaloa
 
+#### [Bienestar infantil desde la cosmovisión de la comunidad shipibo en San Francisco](posters/Bienestar_infantil_desde_la_cosmovision_de_la_comunidad_shipibo_en_San_Francisco_Telma_Ponce_Condor.pdf)
+*Telma Ponce Condor* — Universidad nacional intercultural de la amazonia
+
+#### [Biokinetic Valorization of Camu Camu Peel (Myrciaria dubia) as a Renewable Energy Source for the Ucayali Region](posters/Biokinetic_Valorization_of_Camu_Camu_Peel_Myrciaria_dubia_as_a_Renewable_Energy_Source_for_Maria_del_Carmen_Llancari_Daza.pdf)
+*Maria del Carmen Llancari Daza* — Universidad Nacional Intercultural de la Amazonía
+
 #### [Características de las iniciativas de revitalización de lenguas indígenas en redes sociales podrían contribuir a despertar el interés de jóvenes por aprender una lengua indígena como el Tének](posters/Caracteristicas_de_las_iniciativas_de_revitalizacion_de_lenguas_indigenas_en_redes_sociale_Nancy_Santiago_Santos.pdf)
 *Nancy Santiago Santos* — UASLP
+
+#### [Development of a System for the Identification of Lung Diseases Based on Metabolomic Methods in Vulnerable Communities in San Luis Potosí, Mexico](posters/Development_of_a_System_for_the_Identification_of_Lung_Diseases_Based_on_Metabolomic_Metho_Berenice_Balderas_Segura.pdf)
+*Berenice Balderas Segura* — Universidad Autónoma de San Luis Potosí
 
 #### [Diálogos participativos para orientar el diseño de una guía de mediación lectora situada](posters/Dialogos_participativos_para_orientar_el_diseno_de_una_guia_de_mediacion_lectora_situada_Maria_Elva_Tellez_Rivera.pdf)
 *Maria Elva Téllez Rivera* — UASLP
@@ -39,8 +48,17 @@ Posters from the Summer of Science programme are presented in this session. Titl
 #### [Guardianas del Barro en Cuatzontitla: Barreras y Oportunidades de Comercialización en la Alfarería Tradicional Náhuatl](posters/Guardianas_del_Barro_en_Cuatzontitla_Barreras_y_Oportunidades_de_Comercializacion_en_la_Al_Angelica_Velazquez_Hernandez.pdf)
 *Angélica Velázquez Hernández* — Universidad Intercultural de San Luis Potosi (UICSLP) Campus Tamazunchale
 
+#### [La función poética del lenguaje en la lengua awajún de los padres de familia de la Institución Educativa N.º 16320 de la Comunidad Nativa Tutumberos](posters/La_funcion_poetica_del_lenguaje_en_la_lengua_awajun_de_los_padres_de_familia_de_la_Institu_fredy_tawam_cumbia.pdf)
+*fredy tawam cumbia* — universidad nacional intercultural de la amazonia
+
 #### [Persistence Beyond Productivity: A Process-Tracing Analysis of the Butterfly Net Fishery in Lake Pátzcuaro, Mexico](posters/Persistence_Beyond_Productivity_A_Process_Tracing_Analysis_of_the_Butterfly_Net_Fishery_in_Janeth_Piza_Morales.pdf)
 *Janeth Piza Morales* — Instituto de Ciencia, Tecnología e Innovación
+
+#### [Potencial de la liana amazónica (Cissus verticillata) para una industria alimentaria sostenible](posters/Potencial_de_la_liana_amazonica_Cissus_verticillata_para_una_industria_alimentaria_sosteni_Richard_Ivan_Huaman_Nahui.pdf)
+*Richard Ivan Huaman Ñahui* — Universidad Nacional Intercultural de la Amazonia
+
+#### [Socio-Ethical assessment of linguistic and cultural vulnerability among the Shawi people in university higher education](posters/Socio_Ethical_assessment_of_linguistic_and_cultural_vulnerability_among_the_Shawi_people_i_Boris_Mirko_Chavez_Cabellos.pdf)
+*Boris Mirko Chavez Cabellos* — Universidad Nacional Intercultural de la Amazonía
 
 #### [Voz, agencia y ayuda mutua: Un análisis sobre la participación de las mujeres indígenas en la economía social y solidaria en México](posters/Voz_agencia_y_ayuda_mutua_Un_analisis_sobre_la_participacion_de_las_mujeres_indigenas_en_l_Viridiana_Regino_Castillo.pdf)
 *Viridiana Regino Castillo* — Colegio de Postgraduados
@@ -53,12 +71,6 @@ Posters from the Summer of Science programme are presented in this session. Titl
 
 #### [What place can Purépecha occupy in young people’s lives? An exploratory study of domains of use, perceived barriers and youth perspectives at Telebachillerato 140 in Michoacán](posters/What_place_can_Purepecha_occupy_in_young_people_s_lives_An_exploratory_study_of_domains_of_Rosa_Maria_Leonardo_Apolinar.pdf)
 *Rosa María Leonardo Apolinar* — Instituto Michoacano de Ciencias de la Educación
-
-#### [Development of a System for the Identification of Lung Diseases Based on Metabolomic Methods in Vulnerable Communities in San Luis Potosí, Mexico](posters/Development_of_a_System_for_the_Identification_of_Lung_Diseases_Based_on_Metabolomic_Method_Berenice_Balderas_Segura.pdf)
-*Berenice Balderas Segura* — Universidaed Autónoma de San Luis Potosí
-
-#### [La función poética del lenguaje en la lengua awajún de los padres de familia de la Institución Educativa N.º 16320 de la Comunidad Nativa Tutumberos](posters/La_funcion_poetica_del_lenguaje_en_la_lengua_awajun_de_los_padres_de_familia_de_la_Institu_fredy_tawam_cumbia.pdf)
-*Fredy Tawam Cumbia* — universidad nacional intercultural de la amazonia
 
 - - -
 
