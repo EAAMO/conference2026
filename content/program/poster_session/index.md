@@ -76,11 +76,15 @@ Posters from the Summer of Science programme are presented in this session. Titl
 
 ## Highlighted Posters
 
-*Friday, November 6, 12:15–14:00 (with lunch), [Speerträger](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001006_) — 18 posters*
+*Friday, November 6, 12:15–14:00 (with lunch), [Speerträger](https://www.lmu.de/raumfinder/#/building/bw0000/map?room=000001006_) — 19 posters*
 
 #### "Whose Voice Is It, Anyway?" Towards a Feminist Critical Disability Studies Approach to ‘Making People Up’ with GenAI
 *Iz Koval, Aisha Sobey*
 Presented by Isabel Koval
+
+#### Decision-Time Administrative Reason-Giving for U.S. Municipal AI: The Urban Reasonableness Layer
+*Rashid Mushkani*
+Presented by Rashid Mushkani
 
 #### Distinguishing Biases from Personal Preferences: An Honest Machine Learning Approach
 *Mahyar Habibi, Zahra Khanalizadeh, Negar Ziaeian Ghasemzadeh*
@@ -144,7 +148,7 @@ Presented by María Paula Silva
 
 #### WeDesign+: Deliberative Visual AI for Public Space Planning
 *Rashid Mushkani, Hugo Berard, Shin Koseki*
-Presented by Hugo Berard
+Presented by Rashid Mushkani
 
 #### When Fair Models Stop Being Fair, Who Is Supposed to Notice
 Presented by Marcelo Pasetti
